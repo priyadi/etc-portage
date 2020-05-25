@@ -1,0 +1,3 @@
+app-emulation/wine -gstreamer -opencl
+app-emulation/wine-vanilla -gstreamer -opencl
+

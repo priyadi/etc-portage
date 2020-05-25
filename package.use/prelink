@@ -1,0 +1,3 @@
+dev-libs/elfutils static-libs
+sys-libs/zlib static-libs
+app-arch/bzip2 static-libs

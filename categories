@@ -1,0 +1,6 @@
+cross-avr
+cross-–without-headers
+cross-–-without-headers
+cross-arm-none-eabi
+cross-arm-none-eabi-newlib
+cross-arm-none-eabi-gcc

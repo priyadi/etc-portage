@@ -1,0 +1,3 @@
+#net-vpn/vpnc -resolvconf
+#net-misc/networkmanager -resolvconf
+sys-apps/systemd -resolvconf
