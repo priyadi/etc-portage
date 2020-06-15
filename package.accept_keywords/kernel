@@ -1,1 +1,2 @@
-=sys-kernel/gentoo-sources-5.7* ~amd64
+sys-kernel/gentoo-sources ~amd64
+=sys-kernel/git-sources-5.8* ~amd64
