@@ -1,13 +1,5 @@
-# required by =kde-plasma/plasma-thunderbolt-5.18.5 (argument)
-=kde-plasma/plasma-thunderbolt-5.18.5 ~amd64
 # required by =app-office/gnucash-3.8b-r1 (argument)
 =app-office/gnucash-3.8b-r1 ~amd64
-# required by =sci-geosciences/qgis-3.10.3 (argument)
-=sci-geosciences/qgis-3.10.3 ~amd64
-# required by =app-misc/neofetch-7.0.0 (argument)
-=app-misc/neofetch-7.0.0 ~amd64
-# required by =net-p2p/bitcoin-qt-0.19.1 (argument)
-=net-p2p/bitcoin-qt-0.19.1 ~amd64
 # required by =media-fonts/source-pro-20190911 (argument)
 =media-fonts/source-pro-20190911 ~amd64
 # required by =media-libs/libmtp-1.1.17 (argument)
@@ -18,5 +10,3 @@
 =dev-util/glslang-8.13.3743 ~amd64
 # required by =media-libs/shaderc-2020.1 (argument)
 =media-libs/shaderc-2020.1 ~amd64
-# required by =net-p2p/syncthing-1.5.0 (argument)
-=net-p2p/syncthing-1.5.0 ~amd64
