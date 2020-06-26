@@ -1,2 +1,3 @@
 sys-apps/flatpak
 dev-util/ostree
+sys-fs/libostree
