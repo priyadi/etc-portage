@@ -10,3 +10,5 @@
 =dev-util/glslang-8.13.3743 ~amd64
 # required by =media-libs/shaderc-2020.1 (argument)
 =media-libs/shaderc-2020.1 ~amd64
+# required by =media-libs/libheif-1.6.1 (argument)
+=media-libs/libheif-1.6.1 ~amd64
