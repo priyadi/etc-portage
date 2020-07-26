@@ -11,6 +11,7 @@ advansys/38C0800.bin
 advansys/mcode.bin
 agere_ap_fw.bin
 agere_sta_fw.bin
+amd/amd_sev_fam17h_model3xh.sbin
 amd/amd_sev_fam17h_model0xh.sbin
 amd-ucode/microcode_amd_fam17h.bin.asc
 amd-ucode/microcode_amd.bin.asc
@@ -95,6 +96,7 @@ amdgpu/vega20_uvd.bin
 amdgpu/mullins_rlc.bin
 amdgpu/polaris10_ce_2.bin
 amdgpu/verde_k_smc.bin
+amdgpu/oland_uvd.bin
 amdgpu/hawaii_uvd.bin
 amdgpu/raven2_vcn.bin
 amdgpu/navi10_me.bin
@@ -206,6 +208,8 @@ amdgpu/topaz_me.bin
 amdgpu/fiji_sdma1.bin
 amdgpu/polaris10_mec.bin
 amdgpu/polaris12_mec2.bin
+amdgpu/verde_uvd.bin
+amdgpu/pitcairn_uvd.bin
 amdgpu/navi10_asd.bin
 amdgpu/fiji_sdma.bin
 amdgpu/stoney_uvd.bin
@@ -287,6 +291,7 @@ amdgpu/carrizo_ce.bin
 amdgpu/tonga_vce.bin
 amdgpu/navi10_rlc.bin
 amdgpu/polaris11_mc.bin
+amdgpu/tahiti_uvd.bin
 amdgpu/mullins_mec.bin
 amdgpu/picasso_pfp.bin
 amdgpu/polaris10_sdma1.bin
@@ -479,6 +484,7 @@ ath6k/AR6002/athwlan.bin.z77
 ath6k/AR6002/eeprom.bin
 ath9k_htc/htc_9271-1.4.0.fw
 ath9k_htc/htc_7010-1.4.0.fw
+atmel/wilc1000_wifi_firmware-1.bin
 atmel/wilc1000_wifi_firmware.bin
 atmel/wilc1000_fw.bin
 atmel/wilc1000_p2p_fw.bin
