@@ -12,3 +12,5 @@
 =media-libs/shaderc-2020.1 ~amd64
 # required by =media-libs/libheif-1.6.1 (argument)
 =media-libs/libheif-1.6.1 ~amd64
+# required by =app-crypt/p11-kit-0.23.20-r1 (argument)
+=app-crypt/p11-kit-0.23.20-r1 ~amd64
