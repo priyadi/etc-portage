@@ -1,3 +1,2 @@
-sys-apps/flatpak
-dev-util/ostree
-sys-fs/libostree
+sys-apps/flatpak:flatpak-overlay
+sys-fs/libostree:flatpak-overlay
