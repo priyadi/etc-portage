@@ -1,7 +1,5 @@
 # required by =app-office/gnucash-3.8b-r1 (argument)
 =app-office/gnucash-3.8b-r1 ~amd64
-# required by =media-fonts/source-pro-20190911 (argument)
-=media-fonts/source-pro-20190911 ~amd64
 # required by =media-libs/libmtp-1.1.17 (argument)
 =media-libs/libmtp-1.1.17 ~amd64
 # required by =sys-power/powertop-2.11 (argument)
