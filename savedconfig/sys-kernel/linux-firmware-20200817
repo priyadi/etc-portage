@@ -751,7 +751,9 @@ i915/bxt_guc_ver8_7.bin
 i915/kbl_guc_33.0.0.bin
 i915/icl_huc_ver8_4_3238.bin
 i915/skl_guc_33.0.0.bin
+i915/tgl_dmc_ver2_08.bin
 i915/kbl_guc_32.0.3.bin
+i915/rkl_dmc_ver2_02.bin
 i915/skl_guc_ver4.bin
 i915/skl_guc_ver6_1.bin
 i915/glk_guc_33.0.0.bin
@@ -771,6 +773,7 @@ i915/icl_dmc_ver1_09.bin
 i915/skl_guc_ver6.bin
 i915/glk_dmc_ver1_04.bin
 i915/skl_huc_ver01_07_1398.bin
+i915/tgl_huc_7.5.0.bin
 i915/kbl_guc_ver9_14.bin
 i915/kbl_dmc_ver1_01.bin
 i915/skl_dmc_ver1.bin
@@ -1059,9 +1062,12 @@ mellanox/mlxsw_spectrum-13.2000.1122.mfa2
 mellanox/mlxsw_spectrum-13.1702.6.mfa2
 mellanox/mlxsw_spectrum-13.2000.2714.mfa2
 mellanox/mlxsw_spectrum-13.1620.192.mfa2
+mellanox/mlxsw_spectrum3-30.2008.1036.mfa2
+mellanox/mlxsw_spectrum-13.2008.1036.mfa2
 mellanox/mlxsw_spectrum2-29.2007.1168.mfa2
 mellanox/mlxsw_spectrum-13.2000.1886.mfa2
 mellanox/mlxsw_spectrum2-29.2000.2308.mfa2
+mellanox/mlxsw_spectrum2-29.2008.1036.mfa2
 mellanox/mlxsw_spectrum3-30.2007.1168.mfa2
 mellanox/mlxsw_spectrum-13.2000.2308.mfa2
 mellanox/mlxsw_spectrum2-29.2000.2714.mfa2
