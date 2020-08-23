@@ -2,8 +2,6 @@
 =app-office/gnucash-3.8b-r1 ~amd64
 # required by =media-libs/libmtp-1.1.17 (argument)
 =media-libs/libmtp-1.1.17 ~amd64
-# required by =sys-power/powertop-2.11 (argument)
-=sys-power/powertop-2.11 ~amd64
 # required by =media-libs/libheif-1.6.1 (argument)
 =media-libs/libheif-1.6.1 ~amd64
 # required by =app-crypt/p11-kit-0.23.20-r1 (argument)
