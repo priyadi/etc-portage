@@ -1,1 +1,2 @@
-media-gfx/inkscape -imagemagick -jemalloc
+#media-gfx/inkscape -imagemagick -jemalloc
+media-gfx/inkscape -jemalloc
