@@ -39,6 +39,7 @@ amdgpu/vega10_vce.bin
 amdgpu/polaris12_smc.bin
 amdgpu/polaris10_mec2.bin
 amdgpu/navi14_ta.bin
+amdgpu/navi12_ta.bin
 amdgpu/navi10_ce.bin
 amdgpu/fiji_uvd.bin
 amdgpu/vega20_pfp.bin
@@ -46,8 +47,10 @@ amdgpu/verde_me.bin
 amdgpu/oland_smc.bin
 amdgpu/mullins_me.bin
 amdgpu/polaris10_sdma.bin
+amdgpu/navi12_mec2.bin
 amdgpu/bonaire_mec.bin
 amdgpu/renoir_rlc.bin
+amdgpu/navi12_ce.bin
 amdgpu/tahiti_rlc.bin
 amdgpu/raven2_asd.bin
 amdgpu/hainan_pfp.bin
@@ -79,6 +82,7 @@ amdgpu/fiji_ce.bin
 amdgpu/pitcairn_rlc.bin
 amdgpu/vega10_sdma.bin
 amdgpu/hainan_smc.bin
+amdgpu/navi12_rlc.bin
 amdgpu/raven2_mec2.bin
 amdgpu/polaris10_mec_2.bin
 amdgpu/raven_gpu_info.bin
@@ -129,7 +133,9 @@ amdgpu/navi14_vcn.bin
 amdgpu/kabini_pfp.bin
 amdgpu/banks_k_2_smc.bin
 amdgpu/polaris11_k2_smc.bin
+amdgpu/navi12_sdma1.bin
 amdgpu/picasso_ta.bin
+amdgpu/navi12_mec.bin
 amdgpu/carrizo_sdma1.bin
 amdgpu/topaz_k_smc.bin
 amdgpu/topaz_mec.bin
@@ -203,6 +209,7 @@ amdgpu/raven2_ce.bin
 amdgpu/pitcairn_me.bin
 amdgpu/vegam_rlc.bin
 amdgpu/polaris11_ce.bin
+amdgpu/navi12_gpu_info.bin
 amdgpu/picasso_mec.bin
 amdgpu/topaz_me.bin
 amdgpu/fiji_sdma1.bin
@@ -235,9 +242,12 @@ amdgpu/navi14_ce.bin
 amdgpu/vega12_rlc.bin
 amdgpu/kaveri_sdma1.bin
 amdgpu/polaris10_ce.bin
+amdgpu/navi12_sdma.bin
+amdgpu/navi12_asd.bin
 amdgpu/vega12_ce.bin
 amdgpu/bonaire_rlc.bin
 amdgpu/stoney_ce.bin
+amdgpu/navi12_me.bin
 amdgpu/polaris12_ce_2.bin
 amdgpu/polaris12_k_mc.bin
 amdgpu/polaris11_rlc.bin
@@ -265,6 +275,7 @@ amdgpu/vega12_me.bin
 amdgpu/picasso_vcn.bin
 amdgpu/vegam_pfp.bin
 amdgpu/navi14_mec.bin
+amdgpu/navi12_smc.bin
 amdgpu/hawaii_smc.bin
 amdgpu/stoney_vce.bin
 amdgpu/vega12_asd.bin
@@ -281,6 +292,7 @@ amdgpu/raven2_rlc.bin
 amdgpu/mullins_uvd.bin
 amdgpu/navi10_mec2.bin
 amdgpu/navi14_pfp.bin
+amdgpu/navi12_pfp.bin
 amdgpu/vegam_mec.bin
 amdgpu/vegam_vce.bin
 amdgpu/raven2_mec.bin
@@ -325,6 +337,7 @@ amdgpu/vega10_pfp.bin
 amdgpu/tonga_uvd.bin
 amdgpu/bonaire_pfp.bin
 amdgpu/vega12_smc.bin
+amdgpu/navi12_vcn.bin
 amdgpu/kabini_vce.bin
 amdgpu/polaris12_pfp.bin
 amdgpu/stoney_sdma.bin
@@ -336,7 +349,9 @@ amdgpu/vega20_mec2.bin
 amdgpu/vega10_ce.bin
 amdgpu/topaz_rlc.bin
 amdgpu/vega10_rlc.bin
+amdgpu/navi12_sos.bin
 amdgpu/bonaire_sdma.bin
+amdgpu/navi12_dmcu.bin
 amdgpu/hawaii_rlc.bin
 amdgpu/polaris10_rlc.bin
 amdgpu/renoir_sdma.bin
@@ -1058,6 +1073,7 @@ mediatek/mt7615_rom_patch.bin
 mediatek/mt7915_rom_patch.bin
 mellanox/mlxsw_spectrum-13.1703.4.mfa2
 mellanox/mlxsw_spectrum-13.1910.622.mfa2
+mellanox/mlxsw_spectrum2-29.2008.1310.mfa2
 mellanox/mlxsw_spectrum-13.2000.1122.mfa2
 mellanox/mlxsw_spectrum-13.1702.6.mfa2
 mellanox/mlxsw_spectrum-13.2000.2714.mfa2
@@ -1069,8 +1085,10 @@ mellanox/mlxsw_spectrum-13.2000.1886.mfa2
 mellanox/mlxsw_spectrum2-29.2000.2308.mfa2
 mellanox/mlxsw_spectrum2-29.2008.1036.mfa2
 mellanox/mlxsw_spectrum3-30.2007.1168.mfa2
+mellanox/mlxsw_spectrum-13.2008.1310.mfa2
 mellanox/mlxsw_spectrum-13.2000.2308.mfa2
 mellanox/mlxsw_spectrum2-29.2000.2714.mfa2
+mellanox/mlxsw_spectrum3-30.2008.1310.mfa2
 mellanox/mlxsw_spectrum-13.1420.122.mfa2
 mellanox/mlxsw_spectrum-13.2007.1168.mfa2
 mellanox/mlxsw_spectrum-13.1530.152.mfa2
