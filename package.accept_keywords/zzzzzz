@@ -9,3 +9,5 @@
 =net-libs/neon-0.31.2
 # required by =sys-auth/sssd-2.2.3 (argument)
 =sys-auth/sssd-2.2.3 ~amd64
+
+=dev-python/PyQtWebEngine-5.15.1
