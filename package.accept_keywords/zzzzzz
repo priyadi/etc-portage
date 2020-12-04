@@ -1,15 +1,7 @@
-# required by =app-office/gnucash-3.8b-r1 (argument)
-=app-office/gnucash-3.8b-r1 ~amd64
 # required by =media-libs/libmtp-1.1.17 (argument)
 =media-libs/libmtp-1.1.17 ~amd64
-# required by =media-libs/libheif-1.6.1 (argument)
-=media-libs/libheif-1.6.1 ~amd64
 # required by =app-crypt/p11-kit-0.23.20-r1 (argument)
 =app-crypt/p11-kit-0.23.20-r1 ~amd64
 =net-libs/neon-0.31.2
-# required by =sys-auth/sssd-2.2.3 (argument)
-=sys-auth/sssd-2.2.3 ~amd64
-
-=dev-python/PyQtWebEngine-5.15.1
 
 =sys-fs/btrfs-progs-5.9
