@@ -1,3 +1,8 @@
 =media-libs/libmtp-1.1.17 ~amd64
 =net-libs/neon-0.31.2
 =sys-fs/btrfs-progs-5.9
+
+# libvirt bug
+=dev-python/libvirt-python-6.10.0
+=app-emulation/libvirt-6.10.0-r2
+=app-emulation/virt-manager-3.2.0
