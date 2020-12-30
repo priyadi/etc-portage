@@ -1,0 +1,3 @@
+app-arch/rpm LUA_SINGLE_TARGET: lua5-2
+media-gfx/darktable LUA_SINGLE_TARGET: -* lua5-3
+media-video/obs-studio LUA_SINGLE_TARGET: -* luajit
