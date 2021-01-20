@@ -9,3 +9,11 @@
 
 # R
 =dev-lang/R-4.0.2
+
+# docker
+=app-emulation/docker-20.10.2
+=app-emulation/containerd-1.4.3-r2::gentoo
+=app-emulation/runc-1.0.0_rc92::gentoo
+=app-emulation/docker-proxy-0.8.0_p20201215::gentoo
+=app-emulation/docker-cli-20.10.2::gentoo
+=sys-process/tini-0.19.0::gentoo
