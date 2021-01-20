@@ -6,3 +6,6 @@
 =dev-python/libvirt-python-6.10.0
 =app-emulation/libvirt-6.10.0-r2
 =app-emulation/virt-manager-3.2.0
+
+# R
+=dev-lang/R-4.0.2
