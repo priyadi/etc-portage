@@ -16,3 +16,4 @@
 =dev-libs/efl-1.25.1-r10
 =app-text/highlight-3.57-r100
 dev-lua/*
+media-libs/mlt
