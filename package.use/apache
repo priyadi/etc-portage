@@ -1,1 +1,1 @@
-www-servers/apache -threads
+www-servers/apache APACHE2_MPMS: -* worker
