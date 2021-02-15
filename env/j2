@@ -1,1 +1,2 @@
-MAKEOPTS="-j3"
+MAKEOPTS="-j2"
+NINJAFLAGS="-j2"
