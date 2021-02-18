@@ -1,1 +1,1 @@
-media-tv/kodi -gbm -raspberry-pi -wayland X 
+media-tv/kodi -gbm -raspberry-pi -wayland X -vdpau
