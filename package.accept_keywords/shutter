@@ -1,2 +1,6 @@
 x11-misc/shutter
 dev-perl/Number-Bytes-Human
+dev-perl/Goo-Canvas
+dev-perl/JSON-MaybeXS
+dev-perl/Net-OAuth
+dev-perl/Path-Class
