@@ -91,7 +91,7 @@ USE="3d 7z 7za 7zip R X a52 aac aacplus aacs aalib accessibility acpi
      truetype-debugger tslib tts twitter twolame ubuntu-one udev udf uefi
      umfpack unlock-notify unsupported unwind upcall update-drivedb
      update_drivedb upnp urandom usb usbredir user-session utils uuid uvm uxa
-     v4l v4l2 vaapi vala vamp vcd vcdinfo vcdx vde vdo vdpau vector-icons
+     v4l v4l2 vaapi vala vamp vc vcd vcdinfo vcdx vde vdo vdpau vector-icons
      vf-dlopen vhook vhost-net vhost-user-fs video videoslideshow vidstab
      vim-pager vim-syntax virgl virt-network virtfs visio visualization vix
      vkd3d vlc vmware-tools vmware_guest_freebsd vmware_guest_linux
