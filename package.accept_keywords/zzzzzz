@@ -1,18 +1,9 @@
-=media-libs/libmtp-1.1.17 ~amd64
-=net-libs/neon-0.31.2
-=sys-fs/btrfs-progs-5.9
-
-# libvirt
-=app-emulation/libvirt-7.0*
-=dev-python/libvirt-python-7.0*
+# virt-manager
 =app-emulation/virt-manager-3.2*
-
-# R
-=dev-lang/R-4.0.2
 
 # docker
 =app-emulation/docker-20.10*
-=app-emulation/containerd-1.4.3-r2::gentoo
+=app-emulation/containerd-1.4.4
 =app-emulation/runc-1.0.0_rc92::gentoo
 =app-emulation/docker-proxy-0.8.0_p20201215::gentoo
 =app-emulation/docker-cli-20.10*
@@ -20,4 +11,3 @@
 
 # php8
 =dev-lang/php-8.0*
-=app-eselect/eselect-php-0.9.7
