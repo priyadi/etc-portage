@@ -1,2 +1,3 @@
 #media-libs/opencv gtk -java -qt4 -contrib -tesseract -gtk3 qt5
-media-libs/opencv gtk -java -qt4 contrib -tesseract -gtk3 qt5
+#media-libs/opencv gtk -java -qt4 contrib tesseract gtk3 qt5
+media-libs/opencv contrib qt5 -gtk3
