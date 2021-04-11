@@ -1,1 +1,2 @@
 app-crypt/tpm2-tss gcrypt -gcrypt openssl fapi
+sys-apps/fwupd gnutls
