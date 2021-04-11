@@ -1,5 +1,4 @@
 # libheif
-
 =media-libs/libheif-1.11.0
 
 # virt-manager
@@ -15,3 +14,6 @@
 
 # php8
 =dev-lang/php-8.0*
+
+# git
+=virtual/perl-libnet-3.110.0-r4::gentoo
