@@ -6,3 +6,4 @@ sys-apps/lsd
 app-misc/neofetch
 app-shells/powerline
 media-fonts/powerline-symbols
+app-misc/pfetch
