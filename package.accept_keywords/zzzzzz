@@ -17,3 +17,6 @@
 
 # git
 =virtual/perl-libnet-3.110.0-r4::gentoo
+
+# kmix
+=kde-apps/kmix-21.04.0
