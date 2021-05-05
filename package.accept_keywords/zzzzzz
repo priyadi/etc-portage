@@ -1,3 +1,8 @@
+# telegram
+=dev-cpp/abseil-cpp-20210324.1
+=media-libs/libvpx-1.10.0
+=net-libs/usrsctp-0.9.5.0::gentoo
+
 # virt-manager
 =app-emulation/virt-manager-3.2*
 
