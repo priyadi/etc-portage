@@ -1,1 +1,2 @@
-media-tv/droidcam
+# move media-tv/droidcam media-video/droidcam
+media-video/droidcam
