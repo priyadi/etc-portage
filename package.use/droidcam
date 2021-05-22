@@ -1,1 +1,2 @@
-media-tv/droidcam audio gtk usb
+# move media-tv/droidcam media-video/droidcam
+media-video/droidcam audio gtk usb
