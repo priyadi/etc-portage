@@ -2,7 +2,7 @@ USE="3d 7z 7za 7zip R X a52 aac aacplus aacs aalib accessibility acpi
      action_modeswitch addc addns addressbook adns ads aio airplay akonadi
      alsa amr amrenc amrnb amrwb amt analitza andrea android androiddump
      andypro ao aom apng app apparmor appindicator appstream aprs aptx archive
-     ares aribsub artswrappersuid attica attrib audiofile audit aufs
+     ares argyllcms aribsub artswrappersuid attica attrib audiofile audit aufs
      auto-hinter autoipd automount autotrace avahi avalon barcode
      bash-completion bazaar bcache bcg729 bcmath bcrypt bflsc bidi bitforce
      bitfury bittorrent blake2 blender bluetooth bluray bonjour branding
