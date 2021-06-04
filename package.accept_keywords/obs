@@ -1,3 +1,3 @@
-media-video/obs-studio
-media-video/obs-v4l2sink
+media-video/obs-studio::gentoo
+media-video/obs-v4l2sink::gentoo
 media-video/v4l2loopback
