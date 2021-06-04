@@ -10,7 +10,7 @@
 =kde-apps/kmix-21.04.1
 
 # firewalld
-=net-firewall/firewalld-0.9.3
+=net-firewall/firewalld-0.9.3-r1
 
 # libvirt
 =app-emulation/libvirt-7.3.0
