@@ -1,26 +1,3 @@
-app-crypt/pinentry qt3
-# move kde-base/kgamma kde-apps/kgamma
-# move kde-apps/kgamma kde-plasma/kgamma
-kde-plasma/kgamma -handbook
-# move kde-base/kwin kde-plasma/kwin
-kde-plasma/kwin gles2
-# move kde-base/kdepim-l10n kde-apps/kdepim-l10n
-kde-apps/kdepim-l10n -linguas_id
-
-
-media-sound/kid3 -phonon
-
-# move kde-base/kdeplasma-addons kde-plasma/kdeplasma-addons
-kde-plasma/kdeplasma-addons -attica -desktopglobe -exif -json 
-
-kde-base/kdebase-startkde -wallpapers
-
-#kde-apps/kdenetwork-meta -nls
-
-kde-apps/kdepim-meta -nls
-
-kde-plasma/kinfocenter -gles2
-
 kde-plasma/plasma-meta gtk
-
 kde-apps/cantor LUA_SINGLE_TARGET: luajit
+#kde-plasma/discover -firmware
