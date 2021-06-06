@@ -3,7 +3,7 @@ USE="3d 7z 7za 7zip R X a52 aac aacplus aacs aalib accessibility acpi
      alsa amr amrenc amrnb amrwb amt analitza andrea android androiddump
      andypro ao aom apng app apparmor appindicator appstream aprs aptx archive
      ares argyllcms aribsub artswrappersuid attica attrib audiofile audit aufs
-     auto-hinter autoipd automount autotrace avahi avalon barcode
+     auto-hinter autoipd automount autotrace avahi avalon avif barcode
      bash-completion bazaar bcache bcg729 bcmath bcrypt bflsc bidi bitforce
      bitfury bittorrent blake2 blender bluetooth bluray bonjour branding
      brenda broadway brotli browser-integration bs2b btpclient btrfs cairo
@@ -66,7 +66,7 @@ USE="3d 7z 7za 7zip R X a52 aac aacplus aacs aalib accessibility acpi
      otr overlay overlays ovftool ovs pango parport parted partio passwordsave
      pcap pch pcntl pcre16 pcre32 pda pdf pdfimport pdo perl perlsuid pgo
      phonon php physfs pim pipewire pkcs11 pkcs7 pl2303 plasma player
-     playtools plotutils plucker plugins pnat png pnm polar policykit
+     playtools plotutils plucker plugins plymouth pnat png pnm polar policykit
      positioning posix postgres postproc postscript pptp prelink printsupport
      prison profile projectm proprietary-codecs ps ptex pulseaudio pvr
      pwquality pyqt4 python qalculate qemu qml qrcode qt-faststart qt3support
