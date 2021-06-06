@@ -1,3 +1,2 @@
 kde-plasma/plasma-meta gtk
 kde-apps/cantor LUA_SINGLE_TARGET: luajit
-#kde-plasma/discover -firmware
