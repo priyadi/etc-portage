@@ -16,8 +16,5 @@
 =app-emulation/libvirt-7.3.0
 =dev-python/libvirt-python-7.3.0
 
-# pango
-=x11-libs/pango-1.48.5::gentoo
-
 # flatpak
 =sys-apps/flatpak-1.10.2
