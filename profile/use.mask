@@ -1,4 +1,0 @@
--qt5
--http2
--python_targets_python3_5
--python_single_target_python3_5
