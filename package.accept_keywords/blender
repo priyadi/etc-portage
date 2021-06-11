@@ -1,3 +1,10 @@
-media-gfx/blender::gentoo
+media-gfx/blender:2.93::gentoo
 media-libs/opencollada::gentoo
 media-libs/opensubdiv::gentoo
+media-libs/opencolorio::gentoo
+media-libs/embree::gentoo
+media-libs/oidn::gentoo
+media-gfx/openvdb::gentoo
+media-libs/osl::gentoo
+dev-lang/ispc::gentoo
+dev-cpp/pystring::gentoo
