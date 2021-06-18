@@ -18,3 +18,17 @@
 
 # flatpak
 =sys-apps/flatpak-1.10.2
+
+# shutter
+=dev-perl/GooCanvas2-CairoTypes-0.1.0::gentoo
+=dev-perl/Gtk3-ImageView-9.0.0::gentoo
+
+# clang
+=sys-devel/clang-12.0.0-r1::gentoo
+=sys-devel/llvm-12.0.0::gentoo
+=sys-devel/clang-runtime-12.0.0::gentoo
+=sys-libs/compiler-rt-12.0.0::gentoo
+=sys-libs/compiler-rt-sanitizers-12.0.0::gentoo
+=sys-libs/libomp-12.0.0::gentoo
+=sys-devel/llvmgold-12::gentoo
+=sys-devel/lld-12.0.0::gentoo
