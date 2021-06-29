@@ -2,3 +2,4 @@ net-im/telegram-desktop
 media-libs/libtgvoip
 dev-cpp/ms-gsl
 media-libs/tg_owt
+media-libs/rnnoise
