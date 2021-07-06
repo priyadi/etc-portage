@@ -1,12 +1,12 @@
 USE="3d 7z 7za 7zip R X a52 aac aacplus aacs aalib accessibility acpi
      action_modeswitch addc addns addressbook adns ads aio airplay akonadi
      alembic alsa amr amrenc amrnb amrwb amt analitza andrea android
-     androiddump andypro ao aom apng app apparmor appindicator appstream aprs
-     aptx archive ares argyllcms aribsub artswrappersuid attica attrib
-     audiofile audit aufs auto-hinter autoipd automount autotrace avahi avalon
-     avif barcode bash-completion bazaar bcache bcg729 bcmath bcrypt berkdb
-     bflsc bidi bitforce bitfury bittorrent blake2 blender bluetooth bluray
-     bonjour branding brenda broadway brotli browser browser-integration bs2b
+     androiddump andypro ao aom apng app appindicator appstream aprs aptx
+     archive ares argyllcms aribsub artswrappersuid attica attrib audiofile
+     audit aufs auto-hinter autoipd automount autotrace avahi avalon avif
+     barcode bash-completion bazaar bcache bcg729 bcmath bcrypt berkdb bflsc
+     bidi bitforce bitfury bittorrent blake2 blender bluetooth bluray bonjour
+     branding brenda broadway brotli browser browser-integration bs2b
      btpclient btrfs cairo calendar caps captcha captury cdb cdda cddax cddb
      cdio cdparanoia cdr cdrom celt cgi chm chromaprint chrome chromecast
      chromium cisco ciscodump cjk cleartype client client-libs clippy
