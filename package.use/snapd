@@ -1,1 +1,2 @@
 sys-libs/libseccomp static-libs
+app-emulation/snapd -cgroup-hybrid gtk
