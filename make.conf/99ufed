@@ -84,12 +84,12 @@ USE="3d 7z 7za 7zip R X a52 aac aacplus aacs aalib accessibility acpi
      soxr spandsp spectrum speech speex spell spice sql sqlite sqlite2 sqlite3
      squashfs srt srtp sse sse2 sse3 ssh sshdump sssd ssse3 staging stars
      startup-notification static-ppds stream stubby subversion sudo suid svc
-     svg svg2 swat synaptics sync-plugin-portage syslog system-ffmpeg
-     system-llvm system-sqlite systemtap systray sysv-utils sysvipc szip
-     taglib tbb tci teamd telemetry telepathy telescope teletext telnet
-     templates terminal tesseract texi2html tfshark tftp themes theora threads
-     thunderbolt tiff timezone timidity tls tls-heartbeat tmpfiles tntc
-     tokenizer tools tpm trace translate translator tremor truetype
+     svg svg2 swat swiftshader synaptics sync-plugin-portage syslog
+     system-ffmpeg system-llvm system-sqlite systemtap systray sysv-utils
+     sysvipc szip taglib tbb tci teamd telemetry telepathy telescope teletext
+     telnet templates terminal tesseract texi2html tfshark tftp themes theora
+     threads thunderbolt tiff timezone timidity tls tls-heartbeat tmpfiles
+     tntc tokenizer tools tpm trace translate translator tremor truetype
      truetype-debugger tslib tts twitter twolame ubuntu-one udev udf uefi
      umfpack unlock-notify unsupported unwind upcall update-drivedb
      update_drivedb upnp urandom usb usbredir user-session utils uuid uvm uxa
