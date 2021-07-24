@@ -10,7 +10,3 @@ PORTAGE_RSYNC_EXTRA_OPTS="--delete-after --timeout=600 --contimeout=600 --verbos
 FEATURES="sandbox userpriv parallel-fetch -strict metadata-transfer -collision-protect"
 SANDBOX_PREDICT="/dev/dri/card0"
 PORTAGE_ECLASS_WARNING_ENABLE="0"
-
-MAKEOPTS="-j2"
-NINJAFLAGS="-j2"
-CARGO_BUILD_JOBS=2
