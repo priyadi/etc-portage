@@ -15,6 +15,6 @@
 =dev-perl/Gtk3-ImageView-9.0.0::gentoo
 
 # glibc
-=sys-libs/glibc-2.33-r4
+~sys-libs/glibc-2.33
 =virtual/libcrypt-2
 =sys-libs/libxcrypt-4.4.23-r2
