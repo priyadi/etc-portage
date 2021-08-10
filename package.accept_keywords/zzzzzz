@@ -21,3 +21,7 @@
 
 # cmake
 =dev-util/cmake-3.21.1
+
+# docker
+=app-emulation/docker-20.10.8::gentoo
+=app-emulation/containerd-1.5.4::gentoo
