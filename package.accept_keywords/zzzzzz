@@ -25,3 +25,6 @@
 # docker
 =app-emulation/docker-20.10.8::gentoo
 =app-emulation/containerd-1.5.4::gentoo
+
+# meson
+=dev-util/meson-0.59.1-r1
