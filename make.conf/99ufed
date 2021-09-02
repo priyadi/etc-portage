@@ -20,24 +20,24 @@ USE="3d 7z 7za 7zip R X a52 aac aacplus aacs aalib accessibility acpi
      dirac discover disk-partition display-manager djvu dlna dmraid dmx dnn
      dnotify dns-over-tls dnscrypt dos dpauxmon drafts drawing dri3 drillbit
      drm dropbox dtmf dtrace dts dv dvb dvd dvdr dvdread e2fs e2fsprogs ebook
-     ecdh edd editor egl eglfs eigen elf elfutils emoji emovix enc265 enca
-     encode eps epub equalizer escrow eselect eselect-ldso evdev exceptions
-     exif extensions extra extraengine extras faac faad facebook fam fapi
-     farstream fat fax fdk fdt festival ffmpeg fftw field3d filter firefox
-     firefox3 firewalld fits flac flashexport flashrom flatpak flickr flite
-     fluidsynth fontconfig fontforge fpm fprint fpx freetype frei0r fribidi
-     frontend ftdi ftp fts3 fuse g3dvl gallium garmin gbm gcj gcrypt gd gdal
-     gecko geckodriver gentoo-dev geo geoclue geogebra geoip geolocation
-     georeferencer geos get-all-deps gif gimp git github glamor gles gles1
-     gles2 gles3 glitz gme gmic gmm gmp gnome-online-accounts gnuefi gnuplot
-     go gold google google-gadgets googledrive goom gpg gphoto2 gps gpsd_user
-     gpssync graphics graphite graphviz groupwise grub gs gsl gsm gssapi
-     gstreamer gtk3 gudev gui gusb h323 handbook handwriting haptic hardlink
-     harfbuzz hash hdf5 hdri health heif hfs highlight homed hotwording
-     howl-compat hpack-tools hpcups hpijs htmlhandbook http http2 httpd
-     hunspell hwaccel hwdb hybrid-auth hyperestraier ibus ical icarus icu id3
-     id3tag idle idn iec61883 ifp ilbc imagemagick imagequant imap imlib
-     import-filter importd importers importwizard indi inifile initramfs
+     ecdh echo-cancel edd editor egl eglfs eigen elf elfutils emoji emovix
+     enc265 enca encode eps epub equalizer escrow eselect eselect-ldso evdev
+     exceptions exif extensions extra extraengine extras faac faad facebook
+     fam fapi farstream fat fax fdk fdt festival ffmpeg fftw field3d filter
+     firefox firefox3 firewalld fits flac flashexport flashrom flatpak flickr
+     flite fluidsynth fontconfig fontforge fpm fprint fpx freetype frei0r
+     fribidi frontend ftdi ftp fts3 fuse g3dvl gallium garmin gbm gcj gcrypt
+     gd gdal gecko geckodriver gentoo-dev geo geoclue geogebra geoip
+     geolocation georeferencer geos get-all-deps gif gimp git github glamor
+     gles gles1 gles2 gles3 glitz gme gmic gmm gmp gnome-online-accounts
+     gnuefi gnuplot go gold google google-gadgets googledrive goom gpg gphoto2
+     gps gpsd_user gpssync graphics graphite graphviz groupwise grub gs gsl
+     gsm gssapi gstreamer gtk3 gudev gui gusb h323 handbook handwriting haptic
+     hardlink harfbuzz hash hdf5 hdri health heif hfs highlight homed
+     hotwording howl-compat hpack-tools hpcups hpijs htmlhandbook http http2
+     httpd hunspell hwaccel hwdb hybrid-auth hyperestraier ibus ical icarus
+     icu id3 id3tag idle idn iec61883 ifp ilbc imagemagick imagequant imap
+     imlib import-filter importd importers importwizard indi inifile initramfs
      inkjar inotify inputlirc inspector intl introspection io-uring iphone
      ipod iproute2 irda iscsi iso ispc ithreads iwd jabber jack jack-sdk
      jadetex jansson java java5 java6 javascript jbig jemalloc jfs jingle jit
