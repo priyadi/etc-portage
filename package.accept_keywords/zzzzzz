@@ -17,10 +17,10 @@
 # glibc
 ~sys-libs/glibc-2.33
 =virtual/libcrypt-2
-=sys-libs/libxcrypt-4.4.23-r2
+=sys-libs/libxcrypt-4.4.25
 
 # cmake
-=dev-util/cmake-3.21.1
+=dev-util/cmake-3.21.2
 
 # docker
 =app-emulation/docker-20.10.8::gentoo
