@@ -1,2 +1,4 @@
 net-p2p/bitcoin-qt
 dev-libs/libsecp256k1
+virtual/bitcoin-leveldb
+dev-libs/leveldb
