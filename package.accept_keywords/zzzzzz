@@ -28,3 +28,6 @@
 
 # meson
 =dev-util/meson-0.59.1-r1
+
+# pkcs-helper
+=dev-libs/pkcs11-helper-1.27.0
