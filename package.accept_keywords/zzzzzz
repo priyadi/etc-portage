@@ -31,3 +31,9 @@
 
 # pkcs-helper
 =dev-libs/pkcs11-helper-1.27.0
+
+# pipewire
+=media-libs/libfreeaptx-0.1.1
+
+# extra-cmake-modules
+=kde-frameworks/extra-cmake-modules-5.86.0
