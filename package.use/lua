@@ -3,3 +3,4 @@ media-gfx/darktable LUA_SINGLE_TARGET: -* lua5-3
 media-video/obs-studio LUA_SINGLE_TARGET: -* luajit
 media-plugins/grilo-plugins LUA_SINGLE_TARGET: -* lua5-3
 app-arch/rpm LUA_SINGLE_TARGET: -* lua5-4
+net-analyzer/nmap LUA_SINGLE_TARGET: -* lua5-3
