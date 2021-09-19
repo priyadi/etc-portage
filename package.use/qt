@@ -26,5 +26,3 @@ kde-plasma/kwin -gles2
 dev-python/PyQt4 -webkit
 dev-qt/designer -webkit
 dev-qt/qtdeclarative -webkit
-
-dev-qt/qtwebengine -jumbo-build
