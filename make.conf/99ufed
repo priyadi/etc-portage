@@ -14,8 +14,8 @@ USE="3d 7z 7za 7zip R X a52 aac aacplus aacs aalib accessibility acpi
      color-popper colord colorhug colorpopper comic connection-sharing
      connectivity conntrack consolekit context contrast contrast-control
      contrastcontrol contrib corefonts cron cryptsetup css ctype cups cupsddk
-     curl curves custom-modes cvs cxx cycles daap darcs dav1d dbase dbus
-     dc1394 dec265 decklink declarative deep-sky demosaic designer
+     curl curves custom-jdk custom-modes cvs cxx cycles daap darcs dav1d dbase
+     dbus dc1394 dec265 decklink declarative deep-sky demosaic designer
      designer-plugin desktopglobe device-lib device-mapper dga dhclient dia
      dialup digikam dirac discover disk-partition display-manager djvu dlna
      dmraid dmx dnn dnotify dns-over-tls dnscrypt dos dpauxmon drafts drawing
@@ -27,20 +27,20 @@ USE="3d 7z 7za 7zip R X a52 aac aacplus aacs aalib accessibility acpi
      fftw field3d filter firefox firefox3 firewalld fits flac flashexport
      flashrom flatpak flickr flite fluidsynth fontconfig fontforge fpm fprint
      fpx freetype frei0r fribidi frontend ftdi ftp fts3 fuse g3dvl gallium
-     garmin gbm gcj gcrypt gd gdal gecko geckodriver gentoo-dev geo geoclue
-     geogebra geoip geolocation georeferencer geos get-all-deps gif gimp git
-     github glamor gles gles1 gles2 gles3 glitz gme gmic gmm gmp
-     gnome-online-accounts gnuefi gnuplot go gold google google-gadgets
-     googledrive goom gpg gphoto2 gps gpsd_user gpssync graphics graphite
-     graphviz groupwise grub gs gsl gsm gssapi gstreamer gtk3 gudev gui gusb
-     h323 handbook handwriting haptic hardlink harfbuzz hash hdf5 hdri health
-     heif hfs highlight homed hotwording howl-compat hpack-tools hpcups hpijs
-     htmlhandbook http http2 httpd hunspell hwaccel hwdb hybrid-auth
-     hyperestraier ibus ical icarus icu id3 id3tag idle idn iec61883 ifp ilbc
-     imagemagick imagequant imap imlib import-filter importd importers
-     importwizard indi inifile initramfs inkjar inotify inputlirc inspector
-     intl introspection io-uring iphone ipod iproute2 irda iscsi iso ispc
-     ithreads iwd jabber jack jack-sdk jadetex jansson java java5 java6
+     garmin gbm gcj gcrypt gd gdal gdk-pixbuf gecko geckodriver gentoo-dev
+     gentoo-vm geo geoclue geogebra geoip geolocation georeferencer geos
+     get-all-deps gif gimp git github glamor gles gles1 gles2 gles3 glitz gme
+     gmic gmm gmp gnome-online-accounts gnuefi gnuplot go gold google
+     google-gadgets googledrive goom gpg gphoto2 gps gpsd_user gpssync
+     graphics graphite graphviz groupwise grub gs gsl gsm gssapi gstreamer
+     gtk3 gudev gui gusb h323 handbook handwriting haptic hardlink harfbuzz
+     hash hdf5 hdri health heif hfs highlight homed hotwording howl-compat
+     hpack-tools hpcups hpijs htmlhandbook http http2 httpd hunspell hwaccel
+     hwdb hybrid-auth hyperestraier ibus ical icarus icu id3 id3tag idle idn
+     iec61883 ifp ilbc imagemagick imagequant imap imlib import-filter importd
+     importers importwizard indi inifile initramfs inkjar inotify inputlirc
+     inspector intl introspection io-uring iphone ipod iproute2 irda iscsi iso
+     ispc ithreads iwd jabber jack jack-sdk jadetex jansson java java5 java6
      javascript jbig jemalloc jfs jingle jit jpeg jpeg2k json julia justify
      kaccounts kate kbd kde kde4 kdenlive kdepim kdesu kdrive kerberos
      keyboardfocus kig-scripting kipi klondike kms knots kvazaar kvm l0 ladspa
@@ -71,7 +71,7 @@ USE="3d 7z 7za 7zip R X a52 aac aacplus aacs aalib accessibility acpi
      pkcs7 pl2303 plasma player playtools plotutils plucker plugins plymouth
      pnat png pnm polar policykit positioning posix postgres postproc
      postscript pptp prelink printsupport prison profile projectm
-     proprietary-codecs ps ptex pulseaudio pvr pwquality pyqt4 python
+     proprietary-codecs ps psl ptex pulseaudio pvr pwquality pyqt4 python
      qalculate qemu qml qrcode qt-faststart qt3support qt5 qtmedia quicktime
      quotes quvi qwt radio rar rav1e raw raymask rdesktop rdp realtime redeyes
      redfish redistributable reencrypt remote remote-access remoteosd renderer
@@ -86,7 +86,7 @@ USE="3d 7z 7za 7zip R X a52 aac aacplus aacs aalib accessibility acpi
      source-highlight sox soxr spandsp spectrum speech speex spell spi spice
      sql sqlite sqlite2 sqlite3 squashfs srt srtp sse sse2 sse3 ssh sshdump
      sssd ssse3 staging stars startup-notification static-ppds stream stubby
-     subversion sudo suid svc svg svg2 swat swiftshader synaptics
+     subversion sudo suid svc svg svg2 svt-av1 swat swiftshader synaptics
      sync-plugin-portage syslog system-ffmpeg system-llvm system-sqlite
      systemtap systray sysv-utils sysvipc szip taglib tbb tci teamd telemetry
      telepathy telescope teletext telnet templates terminal tesseract
