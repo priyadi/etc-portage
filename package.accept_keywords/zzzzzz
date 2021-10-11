@@ -37,3 +37,9 @@
 
 # extra-cmake-modules
 =kde-frameworks/extra-cmake-modules-5.86.0
+
+# sssd
+=sys-auth/sssd-2.5.2-r1
+
+# ruby
+=dev-ruby/json-2.5.1-r1
