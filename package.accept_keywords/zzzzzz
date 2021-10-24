@@ -12,7 +12,7 @@
 
 # shutter
 =dev-perl/GooCanvas2-CairoTypes-0.1.0::gentoo
-=dev-perl/Gtk3-ImageView-9.0.0::gentoo
+=dev-perl/Gtk3-ImageView-10.0.0::gentoo
 
 # glibc
 ~sys-libs/glibc-2.33
@@ -34,6 +34,7 @@
 
 # pipewire
 =media-libs/libfreeaptx-0.1.1
+=media-video/wireplumber-0.4.2-r1::gentoo
 
 # extra-cmake-modules
 =kde-frameworks/extra-cmake-modules-5.87.0
