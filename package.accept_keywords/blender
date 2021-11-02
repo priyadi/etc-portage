@@ -4,7 +4,7 @@ media-libs/opensubdiv::gentoo
 media-libs/opencolorio::gentoo
 media-libs/embree::gentoo
 media-libs/oidn::gentoo
-media-gfx/openvdb::gentoo
+#media-gfx/openvdb::gentoo
 media-libs/osl::gentoo
 dev-lang/ispc::gentoo
 dev-cpp/pystring::gentoo

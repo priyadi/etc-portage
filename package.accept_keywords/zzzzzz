@@ -47,3 +47,8 @@
 
 # mesa
 =media-libs/mesa-21.2.2::gentoo
+
+# openvdb
+#=media-libs/openimageio-2.2.18.0-r1
+#=dev-cpp/tbb-2021.4.0::gentoo
+#=sci-physics/bullet-3.17-r1
