@@ -76,7 +76,7 @@ USE="3d 7z 7za 7zip R X a52 aac aacplus aacs aalib accessibility acpi
      quotes quvi qwt radio rar rav1e raw raymask rdesktop rdp realtime redeyes
      redfish redistributable reencrypt regis remote remote-access remoteosd
      renderer rendering repart resolvconf rfc3779 rls romio rpc rss rtc rtmp
-     rtsp rubberband run-as-root rustfmt samba sasl sbc sbsms scanner
+     rtsp rubberband run-as-root rust-src rustfmt samba sasl sbc sbsms scanner
      schroedinger science scim screencast script scripting scripts scripttools
      sctp sdbinutils sdjournal sdl sdl-image sdlgfx secure-delete sensors
      serial serialport server sesame2 session setproctitle sftp shapefile
