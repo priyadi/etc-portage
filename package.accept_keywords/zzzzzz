@@ -53,3 +53,6 @@
 
 # hwdata
 =sys-apps/hwdata-0.353::gentoo
+
+# postgis
+=dev-db/postgis-3.1.4
