@@ -14,7 +14,7 @@ dev-qt/qtmultimedia -debuga -gles2
 dev-qt/qtdeclarative -debug -gles2
 dev-qt/designer -phonon
 dev-qt/qtprintsupport -gles2
-dev-qt/qtwidgets -gles2
+dev-qt/qtwidgets -gles2 gtk
 
 dev-python/PyQt5 -gles2
 kde-apps/kdenlive -gles2

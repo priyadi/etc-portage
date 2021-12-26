@@ -1,2 +1,3 @@
 sys-libs/libseccomp static-libs
-app-emulation/snapd -cgroup-hybrid gtk
+# move app-emulation/snapd app-containers/snapd
+app-containers/snapd -cgroup-hybrid gtk

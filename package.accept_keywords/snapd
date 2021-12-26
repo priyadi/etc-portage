@@ -1,1 +1,2 @@
-app-emulation/snapd
+# move app-emulation/snapd app-containers/snapd
+app-containers/snapd

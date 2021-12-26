@@ -1,1 +1,1 @@
-media-tv/kodi -gbm -raspberry-pi -wayland X -vdpau
+media-tv/kodi -gbm -raspberry-pi -wayland X -vdpau -system-ffmpeg
