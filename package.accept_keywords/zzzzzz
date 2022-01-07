@@ -59,3 +59,12 @@
 
 # krita
 =media-libs/libwebp-1.2.1::gentoo
+
+# telegram
+=dev-libs/libdispatch-5.3.3-r1::gentoo
+
+# calibre
+=dev-python/PyQtWebEngine-5.15.5::gentoo
+=dev-python/PyQt5-5.15.6::gentoo
+=dev-python/PyQt-builder-1.12.2::gentoo
+=dev-python/sip-6.5.0::gentoo
