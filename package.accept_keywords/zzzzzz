@@ -66,3 +66,9 @@
 # kodi
 =media-libs/fontconfig-2.13.1-r2::gentoo
 =dev-libs/libudfread-1.1.0::gentoo
+
+# sip
+=dev-python/sip-6.5.0
+
+=dev-python/PyQtWebEngine-5.15.5
+=dev-python/PyQt5-5.15.6
