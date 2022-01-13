@@ -70,5 +70,9 @@
 # sip
 =dev-python/sip-6.5.0
 
+# pyqt
 =dev-python/PyQtWebEngine-5.15.5
 =dev-python/PyQt5-5.15.6
+
+# firefox
+=dev-libs/icu-70.1::gentoo
