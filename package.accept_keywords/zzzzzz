@@ -1,5 +1,3 @@
-# php8
-=dev-lang/php-8.0*
 
 # kmix
 =kde-apps/kmix-21.04*
@@ -73,6 +71,10 @@
 # pyqt
 =dev-python/PyQtWebEngine-5.15.5
 =dev-python/PyQt5-5.15.6
+=dev-python/PyQt-builder-1.12.2
 
 # firefox
 =dev-libs/icu-70.1::gentoo
+
+# eix
+=app-portage/eix-0.36.1::gentoo
