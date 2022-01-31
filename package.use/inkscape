@@ -1,2 +1,1 @@
-#media-gfx/inkscape -imagemagick -jemalloc
-media-gfx/inkscape -jemalloc
+media-gfx/inkscape jemalloc -openmp
