@@ -8,4 +8,4 @@ media-libs/osl::gentoo
 dev-lang/ispc::gentoo
 dev-cpp/pystring::gentoo
 =media-libs/openimageio-2.2*
-=media-gfx/openvdb-8.1*
+=media-gfx/openvdb-8.2*
