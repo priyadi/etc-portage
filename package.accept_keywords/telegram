@@ -1,4 +1,5 @@
 net-im/telegram-desktop
+net-im/telegram-desktop-bin
 media-libs/libtgvoip
 dev-cpp/ms-gsl
 media-libs/tg_owt
