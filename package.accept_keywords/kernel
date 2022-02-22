@@ -1,3 +1,4 @@
+sys-kernel/linux-headers
 sys-kernel/gentoo-sources ~amd64
 sys-apps/linux-misc-apps
 sys-apps/kmod
