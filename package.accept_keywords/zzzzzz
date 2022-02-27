@@ -1,69 +1,5 @@
-
-# kmix
-=kde-apps/kmix-21.04*
-
-# firewalld
-=net-firewall/firewalld-0.9.3-r1
-
-# flatpak
-=sys-apps/flatpak-1.10.2
-
-# shutter
-=dev-perl/GooCanvas2-CairoTypes-0.1.0::gentoo
-=dev-perl/Gtk3-ImageView-10.0.0::gentoo
-
 # glibc
 ~sys-libs/glibc-2.33
-=virtual/libcrypt-2
-=sys-libs/libxcrypt-4.4.25
-
-# cmake
-=dev-util/cmake-3.21.4
-
-# docker
-=app-emulation/docker-20.10.8::gentoo
-=app-emulation/containerd-1.5.4::gentoo
-
-# meson
-=dev-util/meson-0.59.1-r1
-
-# pkcs-helper
-=dev-libs/pkcs11-helper-1.27.0
-
-# pipewire
-=media-libs/libfreeaptx-0.1.1
-=media-video/wireplumber-0.4.2-r1::gentoo
-
-# extra-cmake-modules
-=kde-frameworks/extra-cmake-modules-5.87.0
-
-# sssd
-=sys-auth/sssd-2.5.2-r1
-
-# ruby
-=dev-ruby/json-2.5.1-r1
-
-# mesa
-=media-libs/mesa-21.3.4
-
-# imath
-=dev-libs/imath-3.1.3
-
-# hwdata
-=sys-apps/hwdata-0.353::gentoo
-
-# postgis
-=dev-db/postgis-3.1.4
-
-# krita
-=media-libs/libwebp-1.2.1::gentoo
-
-# telegram
-=dev-libs/libdispatch-5.3.3-r1::gentoo
-
-# kodi
-=media-libs/fontconfig-2.13.1-r2::gentoo
-=dev-libs/libudfread-1.1.0::gentoo
 
 # sip
 =dev-python/sip-6.5.0
@@ -73,12 +9,5 @@
 =dev-python/PyQt5-5.15.6
 =dev-python/PyQt-builder-1.12.2
 
-# firefox
-=dev-libs/icu-70.1::gentoo
-
 # eix
 =app-portage/eix-0.36.1::gentoo
-
-# python
-=dev-python/installer-0.4.0_p20220115::gentoo
-=dev-python/setuptools-60.5.0::gentoo
