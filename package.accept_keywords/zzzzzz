@@ -11,3 +11,6 @@
 
 # eix
 =app-portage/eix-0.36.1::gentoo
+
+# vlc
+=media-video/vlc-3.0.17.3*
