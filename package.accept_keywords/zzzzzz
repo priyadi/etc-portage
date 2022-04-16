@@ -14,3 +14,7 @@
 
 # vlc
 =media-video/vlc-3.0.17.3*
+
+# mdds
+=dev-util/mdds-2.0.2::gentoo
+=app-text/libetonyek-0.1.10-r1
