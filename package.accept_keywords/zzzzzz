@@ -18,3 +18,7 @@
 # mdds
 =dev-util/mdds-2.0.2::gentoo
 =app-text/libetonyek-0.1.10-r1
+
+# qscintilla
+=dev-python/qscintilla-python-2.13.1
+=x11-libs/qscintilla-2.13.1
