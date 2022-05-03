@@ -1,5 +1,5 @@
 # glibc
-~sys-libs/glibc-2.33
+~sys-libs/glibc-2.35
 
 # sip
 =dev-python/sip-6.5.0
@@ -22,3 +22,11 @@
 # qscintilla
 =dev-python/qscintilla-python-2.13.1
 =x11-libs/qscintilla-2.13.1
+
+# blender
+=media-gfx/openvdb-9.0.0-r4 ~amd64
+=media-gfx/blender-3.1.2 ~amd64
+
+# libvirt
+=app-emulation/libvirt-8.2.0 ~amd64
+=dev-python/libvirt-python-8.2.0
