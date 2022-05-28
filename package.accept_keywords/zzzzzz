@@ -30,3 +30,6 @@
 # libvirt
 =app-emulation/libvirt-8.2.0 ~amd64
 =dev-python/libvirt-python-8.2.0
+
+# cppy
+=dev-python/cppy-1.2.1-r1
