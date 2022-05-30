@@ -1,1 +1,2 @@
 net-misc/networkmanager -syslog
+net-vpn/networkmanager-vpnc gtk
