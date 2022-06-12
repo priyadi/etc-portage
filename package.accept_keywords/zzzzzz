@@ -1,45 +1,12 @@
 # glibc
 ~sys-libs/glibc-2.35
 
-# sip
-=dev-python/sip-6.5.0
-
-# pyqt
-=dev-python/PyQtWebEngine-5.15.5
-=dev-python/PyQt5-5.15.6
-=dev-python/PyQt-builder-1.12.2
-
-# eix
-=app-portage/eix-0.36.1::gentoo
-
-# vlc
-=media-video/vlc-3.0.17.3*
-
-# mdds
-=dev-util/mdds-2.0.2::gentoo
-=app-text/libetonyek-0.1.10-r1
-
-# qscintilla
-=dev-python/qscintilla-python-2.13.1
-=x11-libs/qscintilla-2.13.1
-
 # blender
 =media-gfx/openvdb-9.0.0-r4 ~amd64
 =media-gfx/blender-3.1.2 ~amd64
 
-# libvirt
-=app-emulation/libvirt-8.2.0 ~amd64
-=dev-python/libvirt-python-8.2.0
-
-# cppy
-=dev-python/cppy-1.2.1-r1
-
-# icu
-=dev-libs/icu-71.1-r1::gentoo
-
 # gdal
 =sci-libs/gdal-3.5*
-#=sci-libs/gdal-3.4*
 
 # sndio
 =media-sound/sndio-1.8.0-r1::gentoo
