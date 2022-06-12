@@ -1,2 +1,3 @@
 #sci-libs/gdal hdf5 gml armadillo mdb netcdf spatialite -pdf
 #sci-libs/gdal hdf5 gml armadillo mdb netcdf ogdi spatialite -pdf
+sci-libs/gdal -ogdi
