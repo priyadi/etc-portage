@@ -33,3 +33,13 @@
 
 # cppy
 =dev-python/cppy-1.2.1-r1
+
+# icu
+=dev-libs/icu-71.1-r1::gentoo
+
+# gdal
+=sci-libs/gdal-3.5*
+#=sci-libs/gdal-3.4*
+
+# sndio
+=media-sound/sndio-1.8.0-r1::gentoo
