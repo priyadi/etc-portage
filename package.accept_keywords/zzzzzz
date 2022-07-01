@@ -10,3 +10,9 @@
 
 # sndio
 =media-sound/sndio-1.8.0-r1::gentoo
+
+# zstd
+=app-arch/zstd-1.5.2-r1::gentoo
+
+# libepoxy
+=media-libs/libepoxy-1.5.10-r1::gentoo
