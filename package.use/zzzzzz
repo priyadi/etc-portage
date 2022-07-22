@@ -1,2 +1,3 @@
 #media-gfx/krita -color-management
 net-libs/nodejs -lto
+sci-geosciences/qgis -python -mapserver
