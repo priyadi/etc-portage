@@ -25,3 +25,6 @@
 
 # poppler
 =app-text/poppler-22.07.0::gentoo
+
+#docker
+=app-containers/docker-compose-2.6.0
