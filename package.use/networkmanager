@@ -1,2 +1,9 @@
 net-misc/networkmanager -syslog
 net-vpn/networkmanager-vpnc gtk
+net-vpn/networkmanager-openconnect gtk
+net-vpn/networkmanager-pptp gtk
+net-vpn/networkmanager-openvpn gtk
+net-vpn/networkmanager-libreswan gtk
+net-vpn/networkmanager-l2tp gtk
+net-vpn/networkmanager-fortisslvpn gtk
+

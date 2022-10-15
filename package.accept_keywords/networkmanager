@@ -1,3 +1,4 @@
+net-misc/networkmanager
 net-vpn/networkmanager-fortisslvpn
 net-vpn/networkmanager-l2tp
 net-vpn/networkmanager-libreswan
