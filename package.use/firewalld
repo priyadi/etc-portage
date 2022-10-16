@@ -1,0 +1,4 @@
+net-firewall/firewalld iptables
+net-firewall/nftables xtables
+kde-plasma/plasma-firewall -ufw
+sys-apps/iproute2 iptables
