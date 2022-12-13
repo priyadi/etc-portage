@@ -4,3 +4,6 @@ dev-libs/nss
 media-libs/harfbuzz
 media-libs/dav1d
 gui-libs/wlroots
+dev-libs/wayland-protocols
+x11-libs/libdrm
+x11-libs/pixman
