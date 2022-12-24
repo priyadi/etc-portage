@@ -1,2 +1,4 @@
 dev-lang/php
 dev-php/xdebug
+dev-php/pecl-amqp
+dev-php/pecl-redis
