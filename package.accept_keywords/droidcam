@@ -1,2 +1,5 @@
 # move media-tv/droidcam media-video/droidcam
 media-video/droidcam
+dev-libs/libayatana-appindicator
+dev-libs/libayatana-indicator
+dev-libs/ayatana-ido
