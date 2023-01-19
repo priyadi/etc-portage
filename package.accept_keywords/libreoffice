@@ -4,3 +4,4 @@ dev-libs/liborcus
 app-office/libreoffice-l10n
 dev-libs/libixion
 dev-java/openjdk-bin
+dev-cpp/libcmis

@@ -1,1 +1,2 @@
-net-im/discord-bin
+# move net-im/discord-bin net-im/discord
+net-im/discord
