@@ -93,8 +93,8 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      system-ffmpeg system-llvm system-png system-sqlite systemtap systray
      sysv-utils sysvipc szip taglib tbb tci teamd telemetry telepathy
      telescope teletext telnet templates terminal tesseract texi2html tfshark
-     tftp themes theora threads thunderbolt tiff timezone timidity tinywl tls
-     tls-heartbeat tmpfiles tntc tokenizer tools tpm trace translate
+     tftp themes theora thin threads thunderbolt tiff timezone timidity tinywl
+     tls tls-heartbeat tmpfiles tntc tokenizer tools tpm trace translate
      translator tremor truetype truetype-debugger tslib tts tuio twitter
      twolame ubuntu-one udev udf uefi umfpack unlock-notify unsupported unwind
      upcall update-drivedb update_drivedb upnp urandom usb usbredir
