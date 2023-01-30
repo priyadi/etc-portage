@@ -1,1 +1,2 @@
-media-gfx/blender -jemalloc
+#media-gfx/blender -jemalloc -osl
+media-gfx/blender -jemalloc 
