@@ -7,3 +7,6 @@ app-misc/neofetch
 app-shells/powerline
 media-fonts/powerline-symbols
 app-misc/pfetch
+app-shells/thefuck
+sys-fs/duf
+app-misc/tmate
