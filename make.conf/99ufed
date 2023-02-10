@@ -112,8 +112,8 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      x265 xa xattr xcb xcomposite xephyr xetex xface xfs xhtml xinerama xkb
      xls xml xmlpatterns xmlreader xmlrpc xmlwriter xmp xosd xpm xrandr
      xscreensaver xsl xslt xulrunner xv xvfb xvid xvmc xxhash xz yahoo yv12
-     zeroconf zeromq zimg zip zmq zsh-completion zstd zvbi -amrr -anselpro
-     -cammy -debug -dhcpcd -dinkypro -dso -foxypro -ginapro -gnome -gradpro
-     -gtk -libav -luks1_default -mattypro -percypro -qt4 -recode -roypro
-     -sadiepro -shadypro -sharpiepro -siggypro -tonypro"
+     zeroconf zeromq zimg zink zip zmq zsh-completion zstd zvbi -amrr
+     -anselpro -cammy -debug -dhcpcd -dinkypro -dso -foxypro -ginapro -gnome
+     -gradpro -gtk -libav -luks1_default -mattypro -percypro -qt4 -recode
+     -roypro -sadiepro -shadypro -sharpiepro -siggypro -tonypro"
 
