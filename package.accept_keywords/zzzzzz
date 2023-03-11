@@ -28,3 +28,11 @@
 
 #docker
 =app-containers/docker-compose-2.6.0
+=app-containers/containerd-1.6.16
+=app-containers/docker-proxy-0.8.0_p20230118
+
+# leptonica
+=media-libs/leptonica-1.83.1
+
+# tesseract
+=app-text/tesseract-5.3.0
