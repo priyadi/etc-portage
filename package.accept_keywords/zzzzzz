@@ -39,3 +39,6 @@
 
 # qemu
 =app-emulation/qemu-7.2.0-r3
+
+# python
+=dev-python/pyopenssl-23.1.1
