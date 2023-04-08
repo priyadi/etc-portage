@@ -2,3 +2,4 @@ app-containers/docker-compose
 app-containers/docker-cli
 app-containers/docker
 app-containers/docker-buildx
+app-containers/containerd
