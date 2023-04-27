@@ -42,3 +42,5 @@
 
 # python
 =dev-python/pyopenssl-23.1.1
+
+=dev-util/systemtap-4.8
