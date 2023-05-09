@@ -53,25 +53,25 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      libvisual libxml2 linsys lirc live llvm llvm-shared-libs lm-sensors
      lm_sensors localstorage location logger logitech logitech-mouse logrotate
      loop-aes lqr lrz lspclient lto lua lua52compat lv2 lvm lvm2 lxc lz4 lzip
-     lzma lzo mad magic mail maps mapserver marble markdown matplotlib
-     matroska maxminddb mbim mclib mcs51 mdadm mdnsresponder-compat meanwhile
-     media mediaplayer mediawiki melt mercurial messages mhash midi mikmod
-     minizip mixemu mjpeg mmap mms mmx mmxext mng mobi mobile mod mod_irc
-     mod_muc mod_proxy65 mod_pubsub mod_statsdx modemmanager modminer modplug
-     modules moodbar mount mousepad mozdevelop mozdom mozilla mp2 mp3 mp3rtp
-     mp3tunes mp4 mpeg mpeg2 mpg123 mplayer mpris msn mssql mtp multimedia
-     multiuser musepack music musicbrainz mysql mysqli nat native-headset
-     natspec nbconvert ncat ndgrad ndof nemesi net netapi netcdf nettle
-     network networkauth networkmanager nfs nftables nghttp2 njb nlpsolver nls
-     nokia notebook npp nscd nsplugin nss ntfs ntfsdecrypt ntp nuv nvme oauth
-     obex ocean ocr odbc offensive office ofono ogdi ogg oldpim omxil opds
-     openal openconnect opencore-amr opencv opencvapps openexr openh264
-     openimageio openipmi openssl openstreetmap opensubdiv openvdb openvg
-     openvpn optimization opus oracle oscar osmesa otr overlay overlays
-     ovftool ovs pango parport parted partio passwordsave pcap pch pci pcntl
-     pcre16 pcre32 pda pdal pdf pdfimport pdo perl perlsuid pgo phonon php
-     physfs pim pipewire pipewire-alsa pkcs11 pkcs7 pl2303 plasma player
-     playtools plotutils plucker plugins plymouth pnat png pnm polar policykit
+     lzma lzo magic mail maps mapserver marble markdown matplotlib matroska
+     maxminddb mbim mclib mcs51 mdadm mdnsresponder-compat meanwhile media
+     mediaplayer mediawiki melt mercurial messages mhash midi mikmod minizip
+     mixemu mjpeg mmap mms mmx mmxext mng mobi mobile mod mod_irc mod_muc
+     mod_proxy65 mod_pubsub mod_statsdx modemmanager modminer modplug modules
+     moodbar mount mousepad mozdevelop mozdom mozilla mp2 mp3 mp3rtp mp3tunes
+     mp4 mpeg mpeg2 mpg123 mplayer mpris msn mssql mtp multimedia multiuser
+     musepack music musicbrainz mysql mysqli nat native-headset natspec
+     nbconvert ncat ndgrad ndof nemesi net netapi netcdf nettle network
+     networkauth networkmanager nfs nftables nghttp2 njb nlpsolver nls nokia
+     notebook npp nscd nsplugin nss ntfs ntfsdecrypt ntp nuv nvme oauth obex
+     ocean ocr odbc offensive office ofono ogdi ogg oldpim omxil opds openal
+     openconnect opencore-amr opencv opencvapps openexr openh264 openimageio
+     openipmi openssl openstreetmap opensubdiv openvdb openvg openvpn
+     optimization opus oracle oscar osmesa otr overlay overlays ovftool ovs
+     pango parport parted partio passwordsave pcap pch pci pcntl pcre16 pcre32
+     pda pdal pdf pdfimport pdo perl perlsuid pgo phonon php physfs pim
+     pipewire pipewire-alsa pkcs11 pkcs7 pl2303 plasma player playtools
+     plotutils plucker plugins plymouth pnat png pnm polar policykit
      positioning posix postgres postproc postscript pptp prelink printsupport
      prison profile projectm proprietary-codecs ps psl ptex pulseaudio pvr
      pwquality pyqt4 python qalculate qemu qml qrcode qt-faststart qt3support
@@ -114,6 +114,6 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      xscreensaver xsl xslt xulrunner xv xvfb xvid xvmc xxhash xz yahoo yv12
      zeroconf zeromq zimg zink zip zmq zsh-completion zstd zvbi -amrr
      -anselpro -cammy -debug -dhcpcd -dinkypro -dso -foxypro -ginapro -gnome
-     -gradpro -gtk -libav -luks1_default -mattypro -percypro -qt4 -recode
+     -gradpro -gtk -libav -luks1_default -mad -mattypro -percypro -qt4 -recode
      -roypro -sadiepro -shadypro -sharpiepro -siggypro -tonypro"
 
