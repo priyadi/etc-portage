@@ -46,3 +46,7 @@
 =dev-util/systemtap-4.8
 
 =app-i18n/ibus-libpinyin-1.13.1-r1
+
+=app-emulation/wine-gecko-2.47.4::gentoo
+
+=net-vpn/openfortivpn-1.20.3-r2

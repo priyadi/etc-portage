@@ -36,7 +36,7 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      graphviz grass groupwise grub gs gsl gsm gssapi gstreamer gtk3 gudev gui
      gusb h323 handbook handwriting haptic hardlink harfbuzz hash hdf5 hdri
      health heif hfs highlight homed hotwording howl-compat hpack-tools hpcups
-     hpijs hpn hsts htmlhandbook http http2 httpd hunspell hwaccel hwdb hwloc
+     hpijs hsts htmlhandbook http http2 httpd hunspell hwaccel hwdb hwloc
      hybrid-auth hyperestraier ibus ical icarus icu id3 id3tag idle idn
      iec61883 ifp ilbc imagemagick imagequant imap imlib import-filter importd
      importers importwizard indi inifile initramfs inkjar inotify inputlirc
@@ -114,6 +114,6 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      xscreensaver xsl xslt xulrunner xv xvfb xvid xvmc xxhash xz yahoo yv12
      zeroconf zeromq zimg zink zip zmq zsh-completion zstd zvbi -amrr
      -anselpro -cammy -debug -dhcpcd -dinkypro -dso -foxypro -ginapro -gnome
-     -gradpro -gtk -libav -luks1_default -mad -mattypro -percypro -qt4 -recode
-     -roypro -sadiepro -shadypro -sharpiepro -siggypro -tonypro"
+     -gradpro -gtk -hpn -libav -luks1_default -mad -mattypro -percypro -qt4
+     -recode -roypro -sadiepro -shadypro -sharpiepro -siggypro -tonypro"
 
