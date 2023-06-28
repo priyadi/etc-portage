@@ -7,3 +7,4 @@ net-analyzer/nmap LUA_SINGLE_TARGET: -* lua5-3
 media-video/wireplumber LUA_SINGLE_TARGET: lua5-4
 media-video/aegisub LUA_SINGLE_TARGET: -* luajit
 kde-apps/cantor LUA_SINGLE_TARGET: -* luajit
+net-analyzer/nmap LUA_SINGLE_TARGET: -* lua5-4
