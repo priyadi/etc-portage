@@ -6,3 +6,4 @@ media-libs/tg_owt
 media-libs/rnnoise
 dev-cpp/glibmm
 dev-cpp/cppgir
+dev-cpp/expected-lite
