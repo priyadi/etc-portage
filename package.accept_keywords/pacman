@@ -1,0 +1,3 @@
+sys-apps/pacman
+app-crypt/archlinux-keyring
+sys-apps/pacman-mirrorlist
