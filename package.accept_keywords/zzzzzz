@@ -48,3 +48,6 @@
 =app-i18n/ibus-libpinyin-1.13.1-r1
 
 =app-emulation/wine-gecko-2.47.4::gentoo
+
+# pdal
+=sci-libs/pdal-2.5.3-r1
