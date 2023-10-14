@@ -1,2 +1,2 @@
 dev-libs/libsecp256k1 -java -ecdh
-net-p2p/bitcoin-qt -zeromq
+net-p2p/bitcoin-qt 
