@@ -3,7 +3,6 @@ games-misc/lolcat
 dev-ruby/optimist
 dev-ruby/paint
 sys-apps/lsd
-app-misc/neofetch
 app-shells/powerline
 media-fonts/powerline-symbols
 app-misc/pfetch

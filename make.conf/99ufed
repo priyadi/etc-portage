@@ -14,7 +14,7 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      color-management color-popper colord colorhug colorpopper comic
      compositor compress-zstd connection-sharing connectivity conntrack
      consolekit context contrast contrast-control contrastcontrol contrib
-     corefonts cron cryptsetup cscope css ctype cups cupsddk curl curves
+     corefonts criu cron cryptsetup cscope css ctype cups cupsddk curl curves
      custom-jdk custom-modes cvs cxx cycles daap darcs dav1d dbase dbus dc1394
      dec265 decklink declarative deep-sky demosaic designer designer-plugin
      desktopglobe device-lib device-mapper dga dhclient dia dialup dicom
@@ -48,7 +48,7 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      kdepim kdesu kdrive kerberos keyboardfocus kig-scripting kipi klondike
      kms knots krita kvazaar kvm l0 ladspa lame lapack lapacke laptop lastfm
      latex layers lcdfilter lcms ldac ldap ldns legacy-systray lensfun libaom
-     libaribb24 libass libcaca libcerf libconfig libdrm libevent libffi
+     libaribb24 libass libcaca libcerf libconfig libdrm libei libevent libffi
      libguess libilbc libkms libmount libmpv libnotify libproxy librtmp
      libsamplerate libsecret libsoxr libssh libssh2 libsysfs libtar
      libtesseract libtiger libuvc libv4l libv4l2 libvirt libvirtd libvisual
@@ -113,11 +113,11 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      webready webserver websockets widevine widgets wifi wiimote wimax win32
      winbind windeco winetriks winpopup wired wireless wireshark-plugins wlm
      wma wmf woff2 wpg wwan wxwidgets x11extras x264 x265 xa xattr xcb
-     xcomposite xephyr xetex xface xfs xhtml xinerama xkb xls xml xmlpatterns
-     xmlreader xmlrpc xmlwriter xmp xosd xpm xrandr xscreensaver xsl xslt
-     xulrunner xv xvfb xvid xvmc xxhash xz yahoo yv12 zenmap zeroconf zeromq
-     zimg zink zip zmq zsh-completion zstd zvbi -amrr -anselpro -cammy -debug
-     -dhcpcd -dinkypro -dso -foxypro -ginapro -gnome -gradpro -gtk -hpn -libav
-     -luks1_default -mad -mattypro -percypro -qt4 -recode -roypro -sadiepro
-     -shadypro -sharpiepro -siggypro -tonypro"
+     xcomposite xcsecurity xephyr xetex xface xfs xhtml xinerama xkb xls xml
+     xmlpatterns xmlreader xmlrpc xmlwriter xmp xosd xpm xrandr xscreensaver
+     xsl xslt xulrunner xv xvfb xvid xvmc xxhash xz yahoo yv12 zenmap zeroconf
+     zeromq zimg zink zip zmq zsh-completion zstd zvbi -amrr -anselpro -cammy
+     -debug -dhcpcd -dinkypro -dso -foxypro -ginapro -gnome -gradpro -gtk -hpn
+     -libav -luks1_default -mad -mattypro -percypro -qt4 -recode -roypro
+     -sadiepro -shadypro -sharpiepro -siggypro -tonypro"
 

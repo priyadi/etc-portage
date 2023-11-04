@@ -7,3 +7,4 @@ gui-libs/wlroots
 dev-libs/wayland-protocols
 x11-libs/libdrm
 x11-libs/pixman
+dev-util/cbindgen
