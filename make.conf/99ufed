@@ -1,17 +1,17 @@
 USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      action_modeswitch addc addns addressbook adns ads aio airplay akonadi
-     alembic alsa alt-svc amr amrenc amrnb amrwb amt analitza andrea android
-     androiddump andypro ao aom apng app apparmor appindicator appstream aprs
-     aptx archive ares argyllcms aribsub armadillo artswrappersuid attica
-     attrib audiofile audit aufs auto-hinter autoipd automount autotrace avahi
-     avalon avif barcode bash-completion bazaar bcache bcg729 bcmath bcrypt
-     berkdb bflsc bidi bitforce bitfury bittorrent blake2 blender bluetooth
-     bluetooth-sound bluray bonjour bpf branding brenda broadway brotli
-     browser browser-integration bs2b btpclient btrfs cairo calendar caps
-     captcha captury cdb cdda cddax cddb cdio cdparanoia cdr cdrom cec celt
-     cgi chm chromaprint chrome chromecast chromium cisco ciscodump cjk
-     cleartype client client-libs clippy cloudprint codec2 collada
-     color-management color-popper colord colorhug colorpopper comic
+     alembic all-sfx alsa alt-svc amr amrenc amrnb amrwb amt analitza andrea
+     android androiddump andypro ao aom apng app apparmor appindicator
+     appstream aprs aptx archive ares argyllcms aribsub armadillo
+     artswrappersuid attica attrib audiofile audit aufs auto-hinter autoipd
+     automount autotrace avahi avalon avif barcode bash-completion bazaar
+     bcache bcg729 bcmath bcrypt berkdb bflsc bidi bitforce bitfury bittorrent
+     blake2 blender bluetooth bluetooth-sound bluray bonjour bpf branding
+     brenda broadway brotli browser browser-integration bs2b btpclient btrfs
+     cairo calendar caps captcha captury cdb cdda cddax cddb cdio cdparanoia
+     cdr cdrom cec celt cgi chm chromaprint chrome chromecast chromium cisco
+     ciscodump cjk cleartype client client-libs clippy cloudprint codec2
+     collada color-management color-popper colord colorhug colorpopper comic
      compositor compress-zstd connection-sharing connectivity conntrack
      consolekit context contrast contrast-control contrastcontrol contrib
      corefonts criu cron cryptsetup cscope css ctype cups cupsddk curl curves
@@ -45,7 +45,7 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      io-uring ios iphone ipod iproute2 irda iscsi iso ispc ithreads iwd jabber
      jack jack-sdk jadetex jansson java java5 java6 javascript jbig jemalloc
      jfs jingle jit jpeg jpeg2k jpegxl json julia justify kaccounts kate kbd
-     kde kde4 kdenlive kdepim kdesu kdrive kerberos keyboardfocus
+     kde kde4 kdenlive kdepim kdesu kdrive kerberos keyboardfocus keyring
      kig-scripting kipi klondike kms knots krita kvazaar kvm l0 ladspa lame
      lapack lapacke laptop lastfm latex layers lcdfilter lcms ldac ldap ldns
      legacy-systray lensfun libaom libaribb24 libass libcaca libcerf libconfig
@@ -65,60 +65,60 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      mpg123 mplayer mpris msn mssql mtp multimedia multiuser musepack music
      musicbrainz mysql mysqli nat native-headset natspec nbconvert ncat ndgrad
      ndiff ndof nemesi net netapi netcdf nettle network networkauth
-     networkmanager nfs nftables nghttp2 njb nlpsolver nls nokia notebook npp
-     nscd nse nsplugin nss ntfs ntfsdecrypt ntp nuv nvme oauth obex ocean ocr
-     odbc offensive office ofono ogdi ogg oldpim omxil opds openal openconnect
-     opencore-amr opencv opencvapps openexr openh264 openimageio openipmi
-     openssl openstreetmap opensubdiv openvdb openvg openvpn optimization opus
-     oracle oscar osmesa otr overlay overlays ovftool ovs pango parport parted
-     partio passwordsave pcap pch pci pcntl pcre16 pcre32 pda pdal pdf
-     pdfimport pdo perl perlsuid pgo phonon php physfs pim pipewire
-     pipewire-alsa pixeltool pkcs11 pkcs7 pl2303 plasma player playtools
-     plotutils plucker plugins plymouth pnat png pnm polar policykit
+     networkmanager nfc nfs nftables nghttp2 njb nlpsolver nls nokia notebook
+     npp nscd nse nsplugin nss ntfs ntfsdecrypt ntp nuv nvme oauth obex ocean
+     ocr odbc offensive office ofono ogdi ogg oldpim omxil opds openal
+     openconnect opencore-amr opencv opencvapps openexr openh264 openimageio
+     openipmi openssl openstreetmap opensubdiv openvdb openvg openvpn
+     optimization opus oracle oscar osmesa otr overlay overlays ovftool ovs
+     pango parport parted partio passwordsave pcap pch pci pcntl pcre16 pcre32
+     pda pdal pdf pdfimport pdo perl perlsuid pgo phonon php physfs pigz pim
+     pipewire pipewire-alsa pixeltool pkcs11 pkcs7 pl2303 plasma player
+     playtools plotutils plucker plugins plymouth pnat png pnm polar policykit
      positioning posix postgres postproc postscript pptp prelink printsupport
      prison profile projectm proprietary-codecs ps psl ptex pulseaudio pvr
      pwquality pyqt4 python qalculate qdbus qemu qml qrcode qt-faststart
      qt3support qt5 qt6 qt6-imageformats qtaudio qtcamera qtdiag qtmedia
-     qtplugininfo quotes quvi qwt racket radio rar rav1e raw raymask rdesktop
-     rdp realtime redeyes redfish redistributable reencrypt regis remote
-     remote-access remoteosd renderer rendering repart resolvconf rfc3779 rls
-     romio rpc rss rtc rtmp rtsp rubberband ruby run-as-root rust-src rustfmt
-     samba sasl sbc sbsms scanner schroedinger science scim screencast script
-     scripting scripts scripttools sctp sdbinutils sdjournal sdl sdl-image
-     sdlgfx secure-delete security-key sensord sensors serial serialport
-     server sesame2 session setproctitle sftp shapefile share sharedext
-     sharedmem shout sid sieve sift silc simplexml sip sipim skey skins
-     skydrive skype slp smi smp sms sna snappy sndfile sndio snmp soap sockets
-     socks socks5 sodium softstore solver soprano sound sound-server soundex
-     source-highlight sox soxr spandsp spatialite spectrum speech speex spell
-     spi spice sql sqlite sqlite2 sqlite3 squashfs srt srtp sse sse2 sse3 ssh
-     sshdump sssd ssse3 staging stars startup-notification static-ppds stream
-     stubby subversion sudo suid svc svg svg2 svt-av1 swat swiftshader
-     synaptics sync-plugin-portage syslog system-ffmpeg system-llvm system-png
-     system-sqlite systemtap systray sysv-utils sysvipc szip taglib tbb tci
-     teamd telemetry telepathy telescope teletext telnet templates terminal
-     tesseract texi2html tfshark tftp themes theora thin threads thunderbolt
-     tiff timezone timidity tinywl tls tls-heartbeat tmpfiles tntc tokenizer
-     tools tpm trace translate translator tremor truetype truetype-debugger
-     tslib tts tuio twitter twolame ubuntu-one udev udf uefi umfpack
-     unlock-notify unsupported unwind upcall update-drivedb update_drivedb
-     upnp urandom usb usbredir user-session utils uuid uvm uxa v4l v4l2
-     v4lutils vaapi vala vamp vc vcd vcdinfo vcdx vde vdo vdpau vector-icons
-     vf-dlopen vhook vhost-net vhost-user-fs video videoeffects videoslideshow
-     vidstab vim-pager vim-syntax virgl virt-network virtfs visio
-     visualization vix vkd3d vlc vmware-tools vmware_guest_freebsd
-     vmware_guest_linux vmware_guest_netware vmware_guest_solaris
-     vmware_guest_winPre2k vmware_guest_windows vnc vorbis vpx vtk vulkan vxml
-     wasm wav wavpack wayland wddx web-services webcam webchannel webdav
-     webdav-serf webengine webinterface webkit webp webphoto webpresence
-     webready webserver websockets widevine widgets wifi wiimote wimax win32
-     winbind windeco winetriks winpopup wired wireless wireshark-plugins wlm
-     wma wmf woff2 wpg wwan wxwidgets x11extras x264 x265 xa xattr xcb
-     xcomposite xcsecurity xephyr xetex xface xfs xhtml xinerama xkb xls xml
-     xmlpatterns xmlreader xmlrpc xmlwriter xmp xosd xpm xrandr xscreensaver
-     xsl xslt xulrunner xv xvfb xvid xvmc xxhash xz yahoo yv12 zenmap zeroconf
-     zeromq zimg zink zip zmq zsh-completion zstd zvbi -amrr -anselpro -cammy
-     -debug -dhcpcd -dinkypro -dso -foxypro -ginapro -gnome -gradpro -gtk -hpn
-     -libav -luks1_default -mad -mattypro -percypro -qt4 -recode -roypro
-     -sadiepro -shadypro -sharpiepro -siggypro -tonypro"
+     qtplugininfo quick quick3d quotes quvi qwt racket radio rar rav1e raw
+     raymask rdesktop rdp realtime redeyes redfish redistributable reencrypt
+     regis remote remote-access remoteosd renderer rendering repart resolvconf
+     rfc3779 rls romio rpc rss rtc rtmp rtsp rubberband ruby run-as-root
+     rust-src rustfmt samba sasl sbc sbsms scanner schroedinger science scim
+     screencast script scripting scripts scripttools sctp sdbinutils sdjournal
+     sdl sdl-image sdlgfx secure-delete security-key sensord sensors serial
+     serialport server sesame2 session setproctitle sftp shapefile share
+     sharedext sharedmem shout sid sieve sift silc simplexml sip sipim skey
+     skins skydrive skype slp smi smp sms sna snappy sndfile sndio snmp soap
+     sockets socks socks5 sodium softstore solver soprano sound sound-server
+     soundex source-highlight sox soxr spandsp spatial spatialaudio spatialite
+     spectrum speech speex spell spi spice sql sqlite sqlite2 sqlite3 squashfs
+     srt srtp sse sse2 sse3 ssh sshdump sssd ssse3 staging stars
+     startup-notification static-ppds stream stubby subversion sudo suid svc
+     svg svg2 svt-av1 swat swiftshader synaptics sync-plugin-portage syslog
+     system-ffmpeg system-llvm system-png system-sqlite systemtap systray
+     sysv-utils sysvipc szip taglib tbb tci teamd telemetry telepathy
+     telescope teletext telnet templates terminal tesseract texi2html tfshark
+     tftp themes theora thin threads thunderbolt tiff timezone timidity tinywl
+     tls tls-heartbeat tmpfiles tntc tokenizer tools tpm trace translate
+     translator tremor truetype truetype-debugger tslib tts tuio twitter
+     twolame ubuntu-one udev udf uefi umfpack unlock-notify unsupported unwind
+     upcall update-drivedb update_drivedb upnp urandom usb usbredir
+     user-session utils uuid uvm uxa v4l v4l2 v4lutils vaapi vala vamp vc vcd
+     vcdinfo vcdx vde vdo vdpau vector-icons vf-dlopen vhook vhost-net
+     vhost-user-fs video videoeffects videoslideshow vidstab vim-pager
+     vim-syntax virgl virt-network virtfs visio visualization vix vkd3d vlc
+     vmware-tools vmware_guest_freebsd vmware_guest_linux vmware_guest_netware
+     vmware_guest_solaris vmware_guest_winPre2k vmware_guest_windows vnc
+     vorbis vpx vtk vulkan vxml wasm wav wavpack wayland wddx web-services
+     webcam webchannel webdav webdav-serf webengine webinterface webkit webp
+     webphoto webpresence webready webserver websockets widevine widgets wifi
+     wiimote wimax win32 winbind windeco winetriks winpopup wired wireless
+     wireshark-plugins wlm wma wmf woff2 wpg wwan wxwidgets x11extras x264
+     x265 xa xattr xcb xcomposite xcsecurity xephyr xetex xface xfs xhtml
+     xinerama xkb xls xml xmlpatterns xmlreader xmlrpc xmlwriter xmp xosd xpm
+     xrandr xscreensaver xsl xslt xulrunner xv xvfb xvid xvmc xxhash xz yahoo
+     yv12 zenmap zeroconf zeromq zimg zink zip zmq zsh-completion zstd zvbi
+     -amrr -anselpro -cammy -debug -dhcpcd -dinkypro -dso -foxypro -ginapro
+     -gnome -gradpro -gtk -hpn -libav -luks1_default -mad -mattypro -percypro
+     -qt4 -recode -roypro -sadiepro -shadypro -sharpiepro -siggypro -tonypro"
 

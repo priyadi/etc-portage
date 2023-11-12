@@ -1,2 +1,4 @@
 app-text/calibre
 #dev-python/cchardet
+app-text/podofo
+dev-lang/rapydscript-ng
