@@ -18,7 +18,8 @@ dev-qt/qtwidgets -gles2 gtk
 
 dev-python/PyQt5 -gles2
 kde-apps/kdenlive -gles2
-kde-frameworks/plasma -gles2
+# move kde-frameworks/plasma kde-plasma/libplasma
+kde-plasma/libplasma -gles2
 kde-plasma/kwin -gles2
 
 <dev-qt/qtwebkit-4.10.4 -gstreamer
