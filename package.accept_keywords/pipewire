@@ -1,3 +1,4 @@
+media-libs/roc-toolkit
 media-libs/webrtc-audio-processing::gentoo
 media-video/pipewire::gentoo
 media-video/wireplumber::gentoo
