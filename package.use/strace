@@ -1,1 +1,2 @@
-dev-util/strace -unwind
+# move dev-util/strace dev-debug/strace
+dev-debug/strace -unwind

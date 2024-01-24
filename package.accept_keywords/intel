@@ -2,4 +2,6 @@ dev-libs/intel-neo
 dev-util/intel-graphics-compiler
 dev-libs/opencl-clang
 dev-libs/level-zero
-dev-util/spirv-llvm-translator
+#dev-util/spirv-llvm-translator
+#dev-util/spirv-headers
+#dev-util/spirv-tools
