@@ -5,3 +5,5 @@ app-office/libreoffice-l10n
 dev-libs/libixion
 dev-java/openjdk-bin
 dev-cpp/libcmis
+dev-util/mdds
+app-text/libetonyek

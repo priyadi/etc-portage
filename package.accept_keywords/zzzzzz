@@ -72,3 +72,5 @@
 
 =dev-libs/libxml2-2.11.6::gentoo
 =dev-libs/libxslt-1.1.39::gentoo
+
+=sci-libs/pdal-2.6.2
