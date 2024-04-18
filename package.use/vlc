@@ -1,1 +1,1 @@
-media-video/vlc -vaapi
+media-video/vlc -vaapi -rdp
