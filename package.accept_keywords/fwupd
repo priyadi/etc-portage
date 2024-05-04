@@ -1,2 +1,4 @@
 sys-apps/fwupd
 sys-apps/fwupd-efi
+sys-boot/gnu-efi
+sys-apps/uswid

@@ -24,16 +24,16 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      drillbit drm dropbox dtmf dtrace dts dv dvb dvd dvdr dvdread e2fs
      e2fsprogs ebook ecdh echo-cancel edd editor egl eglfs eigen elf elfutils
      emoji emovix enc265 enca encode eps epub equalizer escrow eselect
-     eselect-ldso evdev exceptions exif expat experimental extensions extra
-     extraengine extras faac faad facebook fam fapi farstream fat fax fdk fdt
-     festival ffmpeg fftw fido2 field3d filter firefox firefox3 firewalld
-     firmware fish-completion fits flac flashexport flashrom flatpak flickr
-     flite fluidsynth fontconfig fontforge fpm fprint fpx freetype frei0r
-     fribidi frontend ftdi ftp fts3 fuse g3dvl gallium gamepad garmin gbm gcj
-     gcrypt gd gdal gdk-pixbuf gecko geckodriver gentoo-dev gentoo-vm geo
-     geoclue geogebra geoip geolocation georeferencer geos get-all-deps gif
-     gimp git github glamor gles gles1 gles2 gles3 glitz gme gmic gml gmm gmp
-     gnome-online-accounts gnuefi gnuplot go gold google google-gadgets
+     eselect-ldso evdev excel exceptions exif expat experimental extensions
+     extra extraengine extras faac faad facebook fam fapi farstream fat fax
+     fdk fdt festival ffmpeg fftw fido2 field3d filter firefox firefox3
+     firewalld firmware fish-completion fits flac flashexport flashrom flatpak
+     flickr flite fluidsynth fontconfig fontforge fpm fprint fpx freetype
+     frei0r fribidi frontend ftdi ftp fts3 fuse g3dvl gallium gamepad garmin
+     gbm gcj gcrypt gd gdal gdk-pixbuf gecko geckodriver gentoo-dev gentoo-vm
+     geo geoclue geogebra geoip geolocation georeferencer geos get-all-deps
+     gif gimp git github glamor gles gles1 gles2 gles3 glitz gme gmic gml gmm
+     gmp gnome-online-accounts gnuefi gnuplot go gold google google-gadgets
      googledrive goom gpg gphoto2 gps gpsd_user gpssync graphics graphite
      graphviz grass groupwise grub gs gsl gsm gssapi gstreamer gtk3 gudev gui
      gusb h323 handbook handwriting haptic hardlink harfbuzz hash hdf5 hdri
@@ -87,44 +87,44 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      qtdiag qtmedia qtplugininfo quick quick3d quotes quvi qwt racket radio
      rar rav1e raw raymask rdesktop rdp realtime redeyes redfish
      redistributable reencrypt regis remote remote-access remoteosd renderer
-     rendering repart resolvconf rfc3779 rls roc romio rpc rss rtc rtmp rtsp
-     rubberband ruby run-as-root rust-src rustfmt samba sasl sbc sbsms scanner
-     schroedinger science scim screencast script scripting scripts scripttools
-     sctp sdbinutils sdjournal sdl sdl-image sdlgfx secure-delete security-key
-     sensord sensors serial serialport server sesame2 session setproctitle
-     sftp shapefile share sharedext sharedmem shout sid sieve sift silc
-     simplexml sip sipim skey skins skydrive skype slp smi smp sms sna snap
-     snappy sndfile sndio snmp soap sockets socks socks5 sodium softstore
-     solver soprano sound sound-server soundex source-highlight sox soxr
-     spandsp spatial spatialaudio spatialite spectrum speech speex spell spi
-     spice sql sqlite sqlite2 sqlite3 squashfs srt srtp sse sse2 sse3 ssh
-     sshdump sssd ssse3 staging stars startup-notification static-ppds stream
-     stubby subversion sudo suid svc svg svg2 svt-av1 swat swiftshader
-     synaptics sync-plugin-portage syslog system-ffmpeg system-llvm system-png
-     system-sqlite systemtap systray sysv-utils sysvipc szip taglib tbb tci
-     teamd telemetry telepathy telescope teletext telnet templates terminal
-     tesseract texi2html tfshark tftp themes theora thin threads thunderbolt
-     tiff timezone timidity tinywl tls tls-heartbeat tmpfiles tntc tokenizer
-     tools tpm trace translate translator tremor truetype truetype-debugger
-     tslib tts tuio twitter twolame ubuntu-one udev udf uefi umfpack
-     unlock-notify unsupported unwind upcall update-drivedb update_drivedb
-     upnp urandom usb usbredir user-session utils uuid uvm uxa v4l v4l2
-     v4lutils vaapi vala vamp vc vcd vcdinfo vcdx vde vdo vdpau vector-icons
-     vf-dlopen vhook vhost-net vhost-user-fs video videoeffects videoslideshow
-     vidstab vim-pager vim-syntax virgl virt-network virtfs visio
-     visualization vix vkd3d vlc vmware-tools vmware_guest_freebsd
-     vmware_guest_linux vmware_guest_netware vmware_guest_solaris
-     vmware_guest_winPre2k vmware_guest_windows vnc vorbis vpx vtk vulkan vxml
-     wasm wav wavpack wayland wddx web-services webcam webchannel webdav
-     webdav-serf webengine webinterface webkit webp webphoto webpresence
-     webready webserver websockets widevine widgets wifi wiimote wimax win32
-     winbind windeco winetriks winpopup wired wireless wireshark-plugins wlm
-     wma wmf woff2 wpg wwan wxwidgets x11extras x264 x265 xa xattr xcb
-     xcomposite xcsecurity xephyr xetex xface xfs xhtml xinerama xkb xls xml
-     xmlpatterns xmlreader xmlrpc xmlwriter xmp xosd xpm xrandr xscreensaver
-     xsl xslt xulrunner xv xvfb xvid xvmc xxhash xz yahoo yv12 zenmap zeroconf
-     zeromq zimg zink zip zmq zsh-completion zstd zvbi -amrr -anselpro -cammy
-     -debug -dhcpcd -dinkypro -dso -foxypro -ginapro -gnome -gradpro -gtk -hpn
-     -libav -luks1_default -mad -mattypro -percypro -qt4 -recode -roypro
-     -sadiepro -shadypro -sharpiepro -siggypro -tonypro"
+     rendering repart resolvconf rfc3779 rls roc romio rpc rss rtaudio rtc
+     rtmp rtsp rubberband ruby run-as-root rust-src rustfmt samba sasl sbc
+     sbsms scanner schroedinger science scim screencast script scripting
+     scripts scripttools sctp sdbinutils sdjournal sdl sdl-image sdlgfx
+     secure-delete security-key sensord sensors serial serialport server
+     sesame2 session setproctitle sftp shapefile share sharedext sharedmem
+     shout sid sieve sift silc simplexml sip sipim skey skins skydrive skype
+     slp smi smp sms sna snap snappy sndfile sndio snmp soap sockets socks
+     socks5 sodium softstore solver soprano sound sound-server soundex
+     source-highlight sox soxr spandsp spatial spatialaudio spatialite
+     spectrum speech speex spell spi spice sql sqlite sqlite2 sqlite3 squashfs
+     srt srtp sse sse2 sse3 ssh sshdump sssd ssse3 staging stars
+     startup-notification static-ppds stream stubby subversion sudo suid svc
+     svg svg2 svt-av1 swat swiftshader synaptics sync-plugin-portage syslog
+     system-ffmpeg system-llvm system-png system-sqlite systemtap systray
+     sysv-utils sysvipc szip taglib tbb tci teamd telemetry telepathy
+     telescope teletext telnet templates terminal tesseract texi2html tfshark
+     tftp themes theora thin threads thunderbolt tiff timezone timidity tinywl
+     tls tls-heartbeat tmpfiles tntc tokenizer tools tpm trace translate
+     translator tremor truetype truetype-debugger tslib tts tuio twitter
+     twolame ubuntu-one udev udf uefi umfpack unlock-notify unsupported unwind
+     upcall update-drivedb update_drivedb upnp urandom usb usbredir
+     user-session utils uuid uvm uxa v4l v4l2 v4lutils vaapi vala vamp vc vcd
+     vcdinfo vcdx vde vdo vdpau vector-icons vf-dlopen vhook vhost-net
+     vhost-user-fs video videoeffects videoslideshow vidstab vim-pager
+     vim-syntax virgl virt-network virtfs visio visualization vix vkd3d vlc
+     vmware-tools vmware_guest_freebsd vmware_guest_linux vmware_guest_netware
+     vmware_guest_solaris vmware_guest_winPre2k vmware_guest_windows vnc
+     vorbis vpx vtk vulkan vxml wasm wav wavpack wayland wddx web-services
+     webcam webchannel webdav webdav-serf webengine webinterface webkit webp
+     webphoto webpresence webready webserver websockets widevine widgets wifi
+     wiimote wimax win32 winbind windeco winetriks winpopup wired wireless
+     wireshark-plugins wlm wma wmf woff2 wpg wwan wxwidgets x11extras x264
+     x265 xa xattr xcb xcomposite xcsecurity xephyr xetex xface xfs xhtml
+     xinerama xkb xls xml xmlpatterns xmlreader xmlrpc xmlwriter xmp xosd xpm
+     xrandr xscreensaver xsl xslt xulrunner xv xvfb xvid xvmc xxhash xz yahoo
+     yv12 zenmap zeroconf zeromq zimg zink zip zmq zsh-completion zstd zvbi
+     -amrr -anselpro -cammy -debug -dhcpcd -dinkypro -dso -foxypro -ginapro
+     -gnome -gradpro -gtk -hpn -libav -luks1_default -mad -mattypro -percypro
+     -qt4 -recode -roypro -sadiepro -shadypro -sharpiepro -siggypro -tonypro"
 
