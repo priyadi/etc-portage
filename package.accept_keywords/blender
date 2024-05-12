@@ -1,3 +1,7 @@
 media-libs/opensubdiv
 media-gfx/blender
 media-libs/openpgl
+media-libs/oidn
+media-libs/openimageio
+media-libs/openexr
+media-gfx/openvdb
