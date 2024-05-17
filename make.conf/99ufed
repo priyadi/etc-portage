@@ -77,8 +77,8 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      openimageio openipmi openssl openstreetmap opensubdiv openvdb openvg
      openvpn optimization opus oracle oscar osmesa otr overlay overlays
      ovftool ovs pango parport parted partio passwordsave pcap pch pci pcntl
-     pcre16 pcre32 pda pdal pdf pdfimport pdo perl perlsuid pgo phonon php
-     physfs pigz pim pipewire pipewire-alsa pixeltool pkcs11 pkcs7 pl2303
+     pcre16 pcre32 pda pdal pdf pdfimport pdfium pdo perl perlsuid pgo phonon
+     php physfs pigz pim pipewire pipewire-alsa pixeltool pkcs11 pkcs7 pl2303
      plasma player playtools plotutils plucker plugins plymouth pnat png pnm
      polar policykit positioning posix postgres postproc postscript pptp
      prelink printsupport prison profile projectm proprietary-codecs ps psl
