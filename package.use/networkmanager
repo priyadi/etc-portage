@@ -1,4 +1,4 @@
-net-misc/networkmanager -syslog
+net-misc/networkmanager -syslog -dhclient
 net-vpn/networkmanager-vpnc gtk
 net-vpn/networkmanager-openconnect gtk
 net-vpn/networkmanager-pptp gtk

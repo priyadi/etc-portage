@@ -16,7 +16,7 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      consolekit context contrast contrast-control contrastcontrol contrib
      corefonts criu cron cryptsetup cscope css ctype cups cupsddk curl curves
      custom-jdk custom-modes cvs cxx cycles daap darcs dav1d dbase dbus dc1394
-     ddcutil dec265 decklink declarative deep-sky demosaic designer
+     ddcutil debuginfod dec265 decklink declarative deep-sky demosaic designer
      designer-plugin desktopglobe device-lib device-mapper dga dhclient dia
      dialup dicom digikam dirac discover disk-partition display-manager
      distancefieldgenerator djvu dlna dmraid dmx dnn dnotify dns-over-tls

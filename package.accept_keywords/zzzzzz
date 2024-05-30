@@ -55,8 +55,6 @@
 
 =dev-libs/yyjson-0.7.0-r1::gentoo
 
-=dev-libs/libxml2-2.11.5::gentoo
-
 =dev-python/sphinx-7.2.4::gentoo
 
 =dev-libs/boost-1.83.0-r1::gentoo
