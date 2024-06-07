@@ -1,20 +1,12 @@
 */* PYTHON_TARGETS: -* python3_11 python3_12
 
-#app-accessibility/orca PYTHON_SINGLE_TARGET: python3_11
 app-emulation/libguestfs PYTHON_SINGLE_TARGET: python3_11
 app-i18n/ibus-pinyin PYTHON_SINGLE_TARGET: python3_11
 app-misc/hivex PYTHON_SINGLE_TARGET: python3_11
 dev-libs/volume_key PYTHON_SINGLE_TARGET: python3_11
 media-gfx/alembic PYTHON_SINGLE_TARGET: python3_11
 media-libs/libiptcdata PYTHON_SINGLE_TARGET: python3_11
-#net-analyzer/net-snmp PYTHON_SINGLE_TARGET: python3_11
 net-misc/chrome-remote-desktop PYTHON_SINGLE_TARGET: python3_11
 sci-geosciences/grass PYTHON_SINGLE_TARGET: python3_11
 sci-libs/libsigrokdecode PYTHON_SINGLE_TARGET: python3_11
 sys-fs/android-file-transfer-linux PYTHON_SINGLE_TARGET: python3_11
-sci-libs/gdal PYTHON_SINGLE_TARGET: python3_11
-net-libs/gupnp PYTHON_SINGLE_TARGET: python3_11
-
-# because of hplip:
-net-print/hplip PYTHON_SINGLE_TARGET: python3_11
-net-dns/avahi PYTHON_SINGLE_TARGET: -python3_12 python3_11 
