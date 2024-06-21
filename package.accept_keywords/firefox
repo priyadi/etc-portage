@@ -1,6 +1,6 @@
 www-client/firefox::gentoo
 #dev-libs/nspr
-#dev-libs/nss
+dev-libs/nss
 #media-libs/harfbuzz
 #media-libs/dav1d
 #gui-libs/wlroots
