@@ -1,7 +1,6 @@
 */* PYTHON_TARGETS: -* python3_11 python3_12
 
 app-i18n/ibus-pinyin PYTHON_SINGLE_TARGET: python3_11
-dev-libs/volume_key PYTHON_SINGLE_TARGET: python3_11
 media-libs/libiptcdata PYTHON_SINGLE_TARGET: python3_11
 net-misc/chrome-remote-desktop PYTHON_SINGLE_TARGET: python3_11
 sci-geosciences/grass PYTHON_SINGLE_TARGET: python3_11
