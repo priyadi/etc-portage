@@ -1,0 +1,12 @@
+kde-frameworks/oxygen-icons
+=kde-frameworks/kf-env-6::gentoo
+sys-libs/snapd-glib
+dev-lang/julia
+sci-mathematics/dsfmt
+sci-libs/openlibm
+sci-libs/avogadrolibs
+sci-chemistry/molequeue
+
+
+gui-libs/libadwaita
+dev-vcs/subversion
