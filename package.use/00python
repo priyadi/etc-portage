@@ -2,6 +2,3 @@
 
 app-i18n/ibus-pinyin PYTHON_SINGLE_TARGET: python3_11
 media-libs/libiptcdata PYTHON_SINGLE_TARGET: python3_11
-net-misc/chrome-remote-desktop PYTHON_SINGLE_TARGET: python3_11
-sci-geosciences/grass PYTHON_SINGLE_TARGET: python3_11
-sys-fs/android-file-transfer-linux PYTHON_SINGLE_TARGET: python3_11
