@@ -1,8 +1,8 @@
 USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      action_modeswitch addc addns addressbook adns ads aio airplay akonadi
      alembic all-sfx alsa alt-svc amr amrenc amrnb amrwb amt analitza andrea
-     android androiddump andypro ao aom apng app appindicator appstream aprs
-     aptx archive ares argyllcms aribsub armadillo artswrappersuid attica
+     android androiddump andypro ao aom ap apng app appindicator appstream
+     aprs aptx archive ares argyllcms aribsub armadillo artswrappersuid attica
      attrib audiofile audit aufs auto-hinter autoipd automount autotrace avahi
      avalon avif barcode bash-completion bazaar bcache bcg729 bcmath bcrypt
      berkdb bflsc bidi bitforce bitfury bittorrent blake2 blender bluetooth
@@ -47,10 +47,10 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      iosevka-ss05 iosevka-ss06 iosevka-ss07 iosevka-ss08 iosevka-ss09
      iosevka-ss10 iosevka-ss11 iosevka-ss12 iosevka-ss13 iosevka-ss14
      iosevka-ss15 iosevka-ss16 iosevka-ss17 iosevka-ss18 iphone ipod iproute2
-     irda iscsi iso ispc ithreads iwd jabber jack jack-sdk jadetex jansson
-     java java5 java6 javascript jbig jemalloc jfs jingle jit jpeg jpeg2k
-     jpegxl json julia justify kaccounts kate kbd kde kde4 kdenlive kdepim
-     kdesu kdrive kerberos keyboardfocus keyring kf6compat kig-scripting kipi
+     irda iscsi iso ispc ithreads jabber jack jack-sdk jadetex jansson java
+     java5 java6 javascript jbig jemalloc jfs jingle jit jpeg jpeg2k jpegxl
+     json julia justify kaccounts kate kbd kde kde4 kdenlive kdepim kdesu
+     kdrive kerberos keyboardfocus keyring kf6compat kig-scripting kipi
      klondike kms knots krita kvazaar kvm l0 ladspa lame lapack lapacke laptop
      lastfm latex layers lcdfilter lcms ldac ldap ldns legacy-systray lensfun
      libaom libaribb24 libass libcaca libcerf libconfig libdrm libei libevent
