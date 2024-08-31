@@ -1,0 +1,11 @@
+media-libs/libprojectm qt5
+app-crypt/qca qt5
+app-text/poppler qt5
+sys-auth/polkit-qt qt5
+net-libs/accounts-qt qt5
+net-libs/accounts-qml qt5
+net-libs/signond qt5
+media-libs/phonon qt5
+media-libs/phonon-vlc qt5
+kde-apps/kaccounts-integration qt5
+net-libs/signon-oauth2 qt5

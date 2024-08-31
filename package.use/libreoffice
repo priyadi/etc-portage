@@ -1,1 +1,1 @@
-app-office/libreoffice clang qt5 gtk LIBREOFFICE_EXTENSIONS: nlpsolver scripting-javascript wiki-publisher
+app-office/libreoffice clang -qt5 gtk LIBREOFFICE_EXTENSIONS: nlpsolver scripting-javascript wiki-publisher

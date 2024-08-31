@@ -6,7 +6,11 @@ sci-mathematics/dsfmt
 sci-libs/openlibm
 sci-libs/avogadrolibs
 sci-chemistry/molequeue
+kde-apps/kio-extras
 
 
 gui-libs/libadwaita
 dev-vcs/subversion
+
+=dev-libs/kirigami-addons-1.4.0::gentoo
+=net-misc/kio-zeroconf-common-24.08.0::gentoo

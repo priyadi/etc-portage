@@ -127,6 +127,6 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      yv12 zenmap zeroconf zeromq zimg zink zip zmq zsh-completion zstd zvbi
      -amrr -anselpro -cammy -debug -dhcpcd -dinkypro -dso -foxypro -ginapro
      -gnome -gradpro -gtk -hpn -libav -luks1_default -mad -mattypro -percypro
-     -qt4 -recode -roypro -sadiepro -shadypro -sharpiepro -siggypro -tonypro
-     -xsimd"
+     -qt4 -qt5 -recode -roypro -sadiepro -shadypro -sharpiepro -siggypro
+     -tonypro -xsimd"
 

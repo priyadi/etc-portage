@@ -1,4 +1,3 @@
 */* PYTHON_TARGETS: -* python3_11 python3_12
 
-app-i18n/ibus-pinyin PYTHON_SINGLE_TARGET: python3_11
 media-libs/libiptcdata PYTHON_SINGLE_TARGET: python3_11
