@@ -1,2 +1,2 @@
-dev-libs/libsecp256k1 -java -ecdh
+dev-libs/libsecp256k1 -ecdh
 net-p2p/bitcoin-qt 

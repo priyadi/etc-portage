@@ -1,4 +1,1 @@
 dev-lang/php  -threads -systemd
-=dev-lang/php-7.2* -intl
-=dev-lang/php-5.4* -mysqli -unicode
-=dev-lang/php-5.6* -unicode

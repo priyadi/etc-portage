@@ -1,15 +1,12 @@
 #kde-plasma/plasma-meta gtk -qt5
 kde-plasma/plasma-meta gtk qt5
-kde-plasma/kwayland-integration -qt5
 kde-plasma/plasma-integration qt5
 kde-apps/kaccounts-integration -qt5
 kde-plasma/breeze qt5
 kde-plasma/oxygen qt5
-kde-frameworks/kguiaddons -qt5
 kde-frameworks/kconfigwidgets -designer
 dev-libs/libutf8proc -cjk
 sci-libs/spqr -tbb
 dev-vcs/subversion -kwallet
-kde-frameworks/kio kf6compat
 kde-plasma/print-manager gtk
 media-gfx/digikam -addressbook

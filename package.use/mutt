@@ -1,1 +1,0 @@
-mail-client/mutt berkdb -gdbm -lmdb -qdbm -tokyocabinet

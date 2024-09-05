@@ -1,8 +1,0 @@
-#media-plugins/gst-plugins-meta -ffmpeg
-#media-libs/gst-plugins-base -gles2
-#media-libs/gst-plugins-bad -gles2
-
-#media-libs/gst-plugins* ABI_X86: -32
-media-libs/gst-plugins* -gles2
-media-plugins/gst-plugins* -gles2
-net-libs/libsrtp -nss
