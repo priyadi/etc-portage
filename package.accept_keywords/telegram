@@ -1,14 +1,2 @@
 net-im/telegram-desktop
 net-im/telegram-desktop-bin
-media-libs/libtgvoip
-dev-cpp/ms-gsl
-media-libs/rnnoise
-dev-cpp/glibmm
-dev-libs/glib
-dev-cpp/cppgir
-dev-cpp/expected-lite
-dev-util/gdbus-codegen
-media-libs/tg_owt
-dev-cpp/ada
-dev-cpp/abseil-cpp
-dev-libs/protobuf
