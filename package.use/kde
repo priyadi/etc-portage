@@ -10,3 +10,4 @@ sci-libs/spqr -tbb
 dev-vcs/subversion -kwallet
 kde-plasma/print-manager gtk
 media-gfx/digikam -addressbook
+sci-libs/vtk qt5

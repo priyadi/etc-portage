@@ -9,3 +9,6 @@ dev-cpp/cppgir
 dev-cpp/expected-lite
 dev-util/gdbus-codegen
 media-libs/tg_owt
+dev-cpp/ada
+dev-cpp/abseil-cpp
+dev-libs/protobuf

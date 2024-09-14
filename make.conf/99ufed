@@ -38,26 +38,26 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      graphviz grass groupwise grub gs gsl gsm gssapi gstreamer gtk3 gudev gui
      gusb h323 handbook handwriting haptic hardlink harfbuzz hash hdf5 hdri
      health heif hfs highlight homed hotwording howl-compat hpack-tools hpcups
-     hpijs hsts htmlhandbook http http2 httpd hunspell hwaccel hwdb hwloc
-     hybrid-auth hyperestraier hyphen ibus ical icarus ico icu id3 id3tag idle
-     idn iec61883 ifp ilbc imagemagick imagequant imap imlib import-filter
-     importd importers importwizard indi inifile initramfs inkjar inotify
-     inputlirc inspector intl introspection io-uring ios iosevka-aile
-     iosevka-curly iosevka-curly-slab iosevka-etoile iosevka-slab iosevka-ss01
-     iosevka-ss02 iosevka-ss03 iosevka-ss04 iosevka-ss05 iosevka-ss06
-     iosevka-ss07 iosevka-ss08 iosevka-ss09 iosevka-ss10 iosevka-ss11
-     iosevka-ss12 iosevka-ss13 iosevka-ss14 iosevka-ss15 iosevka-ss16
-     iosevka-ss17 iosevka-ss18 iphone ipod iproute2 irda iscsi iso ispc
-     ithreads jabber jack jack-sdk jadetex jansson java java5 java6 javascript
-     jbig jemalloc jfs jingle jit jpeg jpeg2k jpegxl json julia justify
-     kaccounts kate kbd kde kde4 kdenlive kdepim kdesu kdrive kerberos
+     hpijs hsts htmlhandbook http http-proxy http2 httpd hunspell hwaccel hwdb
+     hwloc hybrid-auth hyperestraier hyphen ibus ical icarus ico icu id3
+     id3tag idle idn iec61883 ifp ilbc imagemagick imagequant imap imlib
+     import-filter importd importers importwizard indi inifile initramfs
+     inkjar inotify inputlirc inspector intl introspection io-uring ios
+     iosevka-aile iosevka-curly iosevka-curly-slab iosevka-etoile iosevka-slab
+     iosevka-ss01 iosevka-ss02 iosevka-ss03 iosevka-ss04 iosevka-ss05
+     iosevka-ss06 iosevka-ss07 iosevka-ss08 iosevka-ss09 iosevka-ss10
+     iosevka-ss11 iosevka-ss12 iosevka-ss13 iosevka-ss14 iosevka-ss15
+     iosevka-ss16 iosevka-ss17 iosevka-ss18 iphone ipod iproute2 irda iscsi
+     iso ispc ithreads jabber jack jack-sdk jadetex jansson java java5 java6
+     javascript jbig jemalloc jfs jingle jit jpeg jpeg2k jpegxl json julia
+     justify kaccounts kate kbd kde kde4 kdenlive kdepim kdesu kdrive kerberos
      keyboardfocus keyring kf6compat kig-scripting kipi klondike kms knots
      krita ktls kvazaar kvm l0 ladspa lame lapack lapacke laptop lastfm latex
      layers lcdfilter lcms ldac ldap ldns legacy-systray lensfun libaom
      libaribb24 libass libcaca libcerf libconfig libdrm libei libevent libffi
      libguess libilbc libkms liblc3 libmount libmpv libnotify libplacebo
      libproxy librtmp libs libsamplerate libsecret libsoxr libssh libssh2
-     libsysfs libtar libtesseract libtiger libuvc libv4l libv4l2 libvirt
+     libsysfs libtar libtesseract libtiger libuv libuvc libv4l libv4l2 libvirt
      libvirtd libvisual libxml2 linsys lirc live llvm llvm-shared-libs
      lm-sensors lm_sensors localstorage location logger logitech
      logitech-mouse logrotate loop-aes lqr lrz lspclient lto lua lua52compat
@@ -84,7 +84,7 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      plugins plymouth pnat png pnm polar policykit positioning posix postgres
      postproc postscript pptp prelink printsupport prison profile projectm
      proprietary-codecs ps ps3 psd psl ptex pulseaudio pvr pwquality pyqt4
-     python qalculate qdbus qemu qml qrcode qt-faststart qt3support qt6
+     pyqt6 python qalculate qdbus qemu qml qrcode qt-faststart qt3support qt6
      qt6-imageformats qtaudio qtcamera qtdiag qtmedia qtplugininfo quick
      quick3d quotes quvi qwt racket radio rar rav1e raw raymask rdesktop rdp
      realtime redeyes redfish redistributable reencrypt regis remote
