@@ -1,1 +1,4 @@
-app-emulation/qemu vte gtk
+app-emulation/qemu vte gtk -plugins
+dev-libs/glib static-libs
+dev-libs/libpcre2 static-libs
+sys-apps/attr static-libs
