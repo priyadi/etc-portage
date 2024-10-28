@@ -1,0 +1,9 @@
+app-misc/ollama **
+=sci-libs/clblast-1.5.2-r1::gentoo
+=dev-libs/rocm-opencl-runtime-6.1.2-r1::gentoo
+=dev-libs/rocr-runtime-6.1.2::gentoo
+=dev-libs/rocm-comgr-6.1.2::gentoo
+=dev-libs/rocm-device-libs-6.1.2::gentoo
+=dev-build/rocm-cmake-6.1.2::gentoo
+=dev-util/hipcc-6.1.2::gentoo
+=dev-libs/roct-thunk-interface-6.1.2::gentoo
