@@ -5,3 +5,4 @@ net-im/telegram-desktop-bin
 =dev-cpp/ada-2.9.1
 =dev-cpp/abseil-cpp-20240722.0
 =dev-libs/protobuf-28.0
+=dev-cpp/ms-gsl-4.1.0::gentoo
