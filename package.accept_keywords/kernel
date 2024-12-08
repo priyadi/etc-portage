@@ -3,3 +3,4 @@ sys-kernel/gentoo-sources ~amd64
 sys-apps/linux-misc-apps
 sys-apps/kmod
 sys-kernel/git-sources
+sys-kernel/linux-firmware

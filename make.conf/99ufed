@@ -73,32 +73,32 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      native-headset natspec nbconvert ncat ndgrad ndiff ndof nemesi net netapi
      netcdf nettle network networkauth networkmanager nfc nfs nftables nghttp2
      njb nlpsolver nls nokia notebook npp nscd nse nsplugin nss ntfs
-     ntfsdecrypt ntp nuv nvme oauth obex ocean ocr odbc offensive office ofono
-     ogdi ogg oldpim omxil opds openal openconnect opencore-amr opencv
-     opencvapps openexr openh264 openimageio openipmi openssl openstreetmap
-     opensubdiv openvdb openvg openvpn optimization opus oracle oscar osmesa
-     otr overlay overlays ovftool ovs oxygen-theme p2p pango parport parted
-     partio passwordsave pcap pch pci pcntl pcre16 pcre32 pda pdal pdf
-     pdfimport pdfium pdo perl perlsuid pgo phonon php physfs physics pigz pim
-     pipewire pipewire-alsa pixeltool pkcs11 pkcs7 pl2303 plasma player
-     playtools plotutils plucker plugins plymouth pnat png pnm polar policykit
-     positioning posix postgres postproc postscript pptp prelink printsupport
-     prison profile projectm proprietary-codecs ps ps3 psd psl ptex pulseaudio
-     pvr pwquality pyqt4 pyqt6 python qalculate qdbus qemu qml qrcode
-     qt-faststart qt3support qt6 qt6-imageformats qtaudio qtcamera qtdiag
-     qtmedia qtplugininfo quick quick3d quotes quvi qwt racket radio rar rav1e
-     raw raymask rdesktop rdp realtime redeyes redfish redistributable
-     reencrypt regis remote remote-access remoteosd renderdoc renderer
-     rendering repart resolvconf rfc3779 rls roc romio rpc rss rtaudio rtc
-     rtmp rtsp rubberband ruby run-as-root rust-src rustfmt samba sasl sbc
-     sbsms scanner schroedinger science scim screencast script scripting
-     scripts scripttools sctp sdbinutils sdjournal sdl sdl-image sdlgfx
-     secure-delete security-key sensord sensors serial serialport server
-     sesame2 session setproctitle sftp shapefile share sharedext sharedmem
-     shout sid sieve sift silc simplexml sip sipim skey skins skydrive skype
-     slp smi smp sms sna snap snappy sndfile sndio snmp soap sockets socks
-     socks5 sodium softstore solver soprano sound sound-server soundex
-     source-highlight sourceview sox soxr spandsp spatial spatialaudio
+     ntfsdecrypt ntp nuv nvidia nvme oauth obex ocean ocr odbc offensive
+     office ofono ogdi ogg oldpim omxil opds openal openconnect opencore-amr
+     opencv opencvapps openexr openh264 openimageio openipmi openssl
+     openstreetmap opensubdiv openvdb openvg openvpn optimization opus oracle
+     oscar osmesa otr overlay overlays ovftool ovs oxygen-theme p2p pango
+     parport parted partio passwordsave pcap pch pci pcntl pcre16 pcre32 pda
+     pdal pdf pdfimport pdfium pdo perl perlsuid pgo phonon php physfs physics
+     pigz pim pipewire pipewire-alsa pixeltool pkcs11 pkcs7 pl2303 plasma
+     player playtools plotutils plucker plugins plymouth pnat png pnm polar
+     policykit positioning posix postgres postproc postscript pptp prelink
+     printsupport prison profile projectm proprietary-codecs ps ps3 psd psl
+     ptex pulseaudio pvr pwquality pyqt4 pyqt6 python qalculate qdbus qemu qml
+     qrcode qt-faststart qt3support qt6 qt6-imageformats qtaudio qtcamera
+     qtdiag qtmedia qtplugininfo quick quick3d quotes quvi qwt racket radio
+     rar rav1e raw raymask rdesktop rdp realtime redeyes redfish
+     redistributable reencrypt regis remote remote-access remoteosd renderdoc
+     renderer rendering repart resolvconf rfc3779 rls roc romio rpc rss
+     rtaudio rtc rtmp rtsp rubberband ruby run-as-root rust-src rustfmt samba
+     sasl sbc sbsms scanner schroedinger science scim screencast script
+     scripting scripts scripttools sctp sdbinutils sdjournal sdl sdl-image
+     sdlgfx secure-delete security-key sensord sensors serial serialport
+     server sesame2 session setproctitle sftp shapefile share sharedext
+     sharedmem shout sid sieve sift silc simplexml sip sipim skey skins
+     skydrive skype slp smi smp sms sna snap snappy sndfile sndio snmp soap
+     sockets socks socks5 sodium softstore solver soprano sound sound-server
+     soundex source-highlight sourceview sox soxr spandsp spatial spatialaudio
      spatialite spectrum speech speex spell spi spice sql sqlite sqlite2
      sqlite3 squashfs srt srtp sse sse2 sse3 ssh sshdump sssd ssse3 staging
      stars startup-notification static-ppds static-user stream stubby

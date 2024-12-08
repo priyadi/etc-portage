@@ -1,4 +1,5 @@
 app-text/calibre
-#dev-python/cchardet
 app-text/podofo
 dev-lang/rapydscript-ng
+=dev-python/pykakasi-2.3.0::gentoo
+=dev-python/jaconv-0.4.0::gentoo
