@@ -4,15 +4,16 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      andrea android androiddump andypro ao aom ap apng app appindicator
      appstream aprs aptx archive ares argyllcms aribsub armadillo
      artswrappersuid attica attrib audiofile audit aufs auto-hinter autoipd
-     automount autotrace avahi avalon avif barcode bash-completion bazaar
-     bcache bcg729 bcmath bcrypt berkdb bflsc bidi bitforce bitfury bittorrent
-     blake2 blender bluetooth bluetooth-sound bluray bmp bonjour bpf branding
-     brenda brightness-control broadway brotli browser browser-integration
-     bs2b btpclient btrfs cairo calendar caps captcha captury cdb cdda cddax
-     cddb cdio cdparanoia cdr cdrom cec celt cgi chm chromaprint chrome
-     chromecast chromium cisco ciscodump cjk cleartype client client-libs
-     clippy cloudprint codec2 collada color-management color-popper colord
-     colorhug colorpopper comic compositor compress-zstd connection-sharing
+     automount autotrace avahi avalon avif avx avx2 avx512bw avx512cd avx512dq
+     avx512f avx512vbmi avx512vl barcode bash-completion bazaar bcache bcg729
+     bcmath bcrypt berkdb bflsc bidi bitforce bitfury bittorrent blake2
+     blender bluetooth bluetooth-sound bluray bmp bonjour bpf branding brenda
+     brightness-control broadway brotli browser browser-integration bs2b
+     btpclient btrfs cairo calendar caps captcha captury cdb cdda cddax cddb
+     cdio cdparanoia cdr cdrom cec celt cgi chm chromaprint chrome chromecast
+     chromium cisco ciscodump cjk cleartype client client-libs clippy
+     cloudprint codec2 collada color-management color-popper colord colorhug
+     colorpopper comic compositor compress-zstd connection-sharing
      connectivity conntrack consolekit context contrast contrast-control
      contrastcontrol contrib corefonts criu cron cryptsetup cscope css ctype
      cups cupsddk curl curves custom-jdk custom-modes cxx cycles daap darcs
@@ -72,7 +73,7 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      mssql mtp multimedia multiuser musepack music musicbrainz mysql mysqli
      nat nat-pmp native-headset natspec nbconvert ncat ndgrad ndiff ndof
      nemesi net netapi netcdf nettle network networkauth networkmanager nfc
-     nfs nftables nghttp2 njb nlpsolver nls nokia notebook npp nscd nse
+     nfs nftables nghttp2 njb nlpsolver nls nokia notebook npm npp nscd nse
      nsplugin nss ntfs ntfsdecrypt ntp nuv nvidia nvme oauth obex ocean ocr
      odbc offensive office ofono ogdi ogg oldpim omxil opds openal openconnect
      opencore-amr opencv opencvapps openexr openh264 openimageio openipmi
@@ -110,18 +111,19 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      thunderbolt tiff timezone timidity tinywl tkip tls tls-heartbeat tmpfiles
      tntc tokenizer tools tpm trace translate translator tremor truetype
      truetype-debugger tslib tts tuio twitter twolame ubuntu-one udev udf uefi
-     umfpack unlock-notify unrar unsupported unwind upcall update-drivedb
-     update_drivedb upnp urandom usb usbredir user-session utils uuid uvm uxa
-     v4l v4l2 v4lutils vaapi vala vamp vc vcd vcdinfo vcdx vde vdo vdpau
-     vector-icons vf-dlopen vhook vhost-net vhost-user-fs video videoeffects
-     videoslideshow vidstab vim-pager vim-syntax virgl virt-network virtfs
-     visio visualization vix vkd3d vlc vmware-tools vmware_guest_freebsd
-     vmware_guest_linux vmware_guest_netware vmware_guest_solaris
-     vmware_guest_winPre2k vmware_guest_windows vnc vorbis vpx vtk vulkan vxml
-     wacom wasm wav wavpack wayland wddx web-services webcam webchannel webdav
-     webdav-serf webengine webinterface webkit webp webphoto webpresence
-     webready webserver websocket websockets widevine widgets wifi wiimote
-     wimax win32 winbind windeco winetriks winpopup wired wireless
+     uitools umfpack unlock-notify unrar unsupported unwind upcall
+     update-drivedb update_drivedb upnp urandom usb usbredir user-session
+     utils uuid uvm uxa v4l v4l2 v4lutils vaapi vala vamp vc vcd vcdinfo vcdx
+     vde vdo vdpau vector-icons vf-dlopen vhook vhost-net vhost-user-fs video
+     videoeffects videoslideshow vidstab vim-pager vim-syntax virgl
+     virt-network virtfs visio visualization vix vkd3d vlc vmware-tools
+     vmware_guest_freebsd vmware_guest_linux vmware_guest_netware
+     vmware_guest_solaris vmware_guest_winPre2k vmware_guest_windows vnc
+     vorbis vpx vtk vulkan vxml wacom wallpaper wallpaper-metadata wallpapers
+     wasm wav wavpack wayland wddx web-services webcam webchannel webdav
+     webdav-serf webdriver webengine webinterface webkit webp webphoto
+     webpresence webready webserver websocket websockets widevine widgets wifi
+     wiimote wimax win32 winbind windeco winetriks winpopup wired wireless
      wireshark-plugins wlm wma wmf woff2 wpg wps wwan wxwidgets x11extras x264
      x265 xa xattr xcb xcomposite xcsecurity xephyr xetex xface xfs xhtml
      xinerama xkb xls xml xmlpatterns xmlreader xmlrpc xmlwriter xmp xosd xpm
