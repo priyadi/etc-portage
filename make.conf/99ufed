@@ -74,8 +74,8 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      nat nat-pmp native-headset natspec nbconvert ncat ndgrad ndiff ndof
      nemesi net netapi netcdf nettle network networkauth networkmanager nfc
      nfs nftables nghttp2 njb nlpsolver nls nokia notebook npm npp nscd nse
-     nsplugin nss ntfs ntfsdecrypt ntp nuv nvidia nvme oauth obex ocean ocr
-     odbc offensive office ofono ogdi ogg oldpim omxil opds openal opencl
+     nsplugin nss ntfs ntfsdecrypt ntp nuv nvidia nvme oauth obex ocaml ocean
+     ocr odbc offensive office ofono ogdi ogg oldpim omxil opds openal opencl
      openconnect opencore-amr opencv opencvapps openexr openh264 openimageio
      openipmi openssl openstreetmap opensubdiv openvdb openvg openvpn
      optimization opus oracle oscar osmesa otr overlay overlays ovftool ovs
@@ -86,15 +86,15 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      plymouth pnat png pnm polar policykit positioning posix postgres postproc
      postscript pptp prelink printsupport prison profile projectm
      proprietary-codecs ps ps3 psd psl ptex pulseaudio pvr pwquality pyqt4
-     pyqt6 python qalculate qdbus qemu qml qrcode qt-faststart qt3support qt6
-     qt6-imageformats qtaudio qtcamera qtdiag qtmedia qtplugininfo quick
-     quick3d quotes quvi qwt racket radio rar rav1e raw raymask rdesktop rdp
-     realtime redeyes redfish redistributable reencrypt regis remote
-     remote-access remoteosd renderdoc renderer rendering repart resolvconf
-     rfc3779 rls roc romio rpc rss rtaudio rtc rtmp rtsp rubberband ruby
-     run-as-root rust-src rustfmt samba sasl sbc sbsms scanner schroedinger
-     science scim screencast script scripting scripts scripttools sctp
-     sdbinutils sdjournal sdl sdl-image sdlgfx secure-delete security-key
+     pyqt6 python qalculate qdbus qemu qml qmlls qrcode qt-faststart
+     qt3support qt6 qt6-imageformats qtaudio qtcamera qtdiag qtmedia
+     qtplugininfo quick quick3d quotes quvi qwt racket radio rar rav1e raw
+     raymask rdesktop rdp realtime redeyes redfish redistributable reencrypt
+     regis remote remote-access remoteosd renderdoc renderer rendering repart
+     resolvconf rfc3779 rls roc romio rpc rss rtaudio rtc rtmp rtsp rubberband
+     ruby run-as-root rust-src rustfmt samba sasl sbc sbsms scanner
+     schroedinger science scim screencast script scripting scripts scripttools
+     sctp sdbinutils sdjournal sdl sdl-image sdlgfx secure-delete security-key
      sensord sensors serial serialport server sesame2 session setproctitle
      sftp shapefile share sharedext sharedmem shout sid sieve sift silc
      simplexml sip sipim skey skins skydrive skype slp smi smp sms sna snap

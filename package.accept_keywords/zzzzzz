@@ -2,3 +2,10 @@
 =dev-libs/quazip-1.4-r1
 =dev-libs/tree-sitter-bash-0.23.1
 =dev-libs/libxslt-1.1.42
+=dev-perl/Crypt-URandom-0.530.0::gentoo
+=media-libs/zxing-cpp-2.3.0-r1::gentoo
+=media-libs/zint-2.14.0::gentoo
+=dev-cpp/tbb-2022.0.0-r1
+=media-libs/libpng-1.6.46::gentoo
+=dev-python/roman-numerals-py-2.0.0::gentoo
+=dev-python/flit-core-3.11.0::gentoo
