@@ -9,3 +9,4 @@
 =media-libs/libpng-1.6.46::gentoo
 =dev-python/roman-numerals-py-2.0.0::gentoo
 =dev-python/flit-core-3.11.0::gentoo
+=media-libs/libxmp-4.6.1
