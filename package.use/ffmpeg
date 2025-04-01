@@ -1,1 +1,1 @@
-media-video/ffmpeg -flite
+media-video/ffmpeg -flite -gmp

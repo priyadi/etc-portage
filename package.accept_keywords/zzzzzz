@@ -10,3 +10,9 @@
 =dev-python/roman-numerals-py-2.0.0::gentoo
 =dev-python/flit-core-3.11.0::gentoo
 =media-libs/libxmp-4.6.1
+=x11-libs/gtk+-3.24.49
+=dev-libs/libxslt-1.1.43::gentoo
+=dev-libs/md4c-0.5.2::gentoo
+=sys-apps/xdg-desktop-portal-1.20.0-r2
+=sys-libs/libnvidia-container-1.17.4
+=app-containers/nvidia-container-toolkit-1.17.4-r1

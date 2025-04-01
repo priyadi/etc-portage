@@ -16,13 +16,13 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      colorpopper comic compositor compress-zstd connection-sharing
      connectivity conntrack consolekit context contrast contrast-control
      contrastcontrol contrib corefonts criu cron cryptsetup cscope css ctype
-     cups cupsddk curl curves custom-jdk custom-modes cxx cycles daap darcs
-     dav1d dbase dbus dc1394 ddcutil debuginfod dec265 decklink declarative
-     deep-sky demosaic designer designer-plugin desktopglobe device-lib
-     device-mapper dga dhclient dia dialup dicom digikam dirac discover
-     disk-partition display-manager distancefieldgenerator djvu dlna dmraid
-     dmx dnn dnotify dns-over-tls dnscrypt dos dpauxmon drafts drawing dri3
-     drillbit drm dropbox dtmf dtrace dts dv dvb dvd dvdr dvdread e2fs
+     cuda cups cupsddk curl curves custom-jdk custom-modes cxx cycles daap
+     darcs dav1d dbase dbus dc1394 ddcutil debuginfod dec265 decklink
+     declarative deep-sky demosaic designer designer-plugin desktopglobe
+     device-lib device-mapper dga dhclient dia dialup dicom digikam dirac
+     discover disk-partition display-manager distancefieldgenerator djvu dlna
+     dmraid dmx dnn dnotify dns-over-tls dnscrypt dos dpauxmon drafts drawing
+     dri3 drillbit drm dropbox dtmf dtrace dts dv dvb dvd dvdr dvdread e2fs
      e2fsprogs eap-sim ebook ecdh echo-cancel edd editor egl eglfs eigen elf
      elfutils emoji emovix enc265 enca encode eps epub equalizer escrow
      eselect eselect-ldso evdev excel exceptions exif expat experimental
@@ -113,9 +113,9 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      translator tremor truetype truetype-debugger tslib tts tuio twitter
      twolame ubuntu-one udev udf uefi uitools umfpack unlock-notify unrar
      unsupported unwind upcall update-drivedb update_drivedb upnp urandom usb
-     usbredir user-session utils uuid uvm uxa v4l v4l2 v4lutils vaapi vala
-     vamp vc vcd vcdinfo vcdx vde vdo vdpau vector-icons vf-dlopen vhook
-     vhost-net vhost-user-fs video videoeffects videoslideshow vidstab
+     usbredir use-firmware user-session utils uuid uvm uxa v4l v4l2 v4lutils
+     vaapi vala vamp vc vcd vcdinfo vcdx vde vdo vdpau vector-icons vf-dlopen
+     vhook vhost-net vhost-user-fs video videoeffects videoslideshow vidstab
      vim-pager vim-syntax virgl virt-network virtfs visio visualization vix
      vkd3d vlc vmware-tools vmware_guest_freebsd vmware_guest_linux
      vmware_guest_netware vmware_guest_solaris vmware_guest_winPre2k
