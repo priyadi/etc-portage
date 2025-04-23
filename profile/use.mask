@@ -1,3 +1,0 @@
-python_targets_python3_9
-python_targets_python3_10
--kf6compat

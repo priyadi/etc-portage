@@ -16,3 +16,6 @@
 =sys-apps/xdg-desktop-portal-1.20.0-r2
 =sys-libs/libnvidia-container-1.17.4
 =app-containers/nvidia-container-toolkit-1.17.4-r1
+=sys-apps/hwloc-2.11.2
+=sci-libs/composable-kernel-6.3.0
+=dev-ruby/kramdown-2.5.1::gentoo

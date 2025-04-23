@@ -1,1 +1,4 @@
-app-misc/ollama amd nvidia
+# move app-misc/ollama sci-ml/ollama
+sci-ml/ollama amd nvidia
+dev-util/hip VIDEO_CARDS: -nvidia
+acct-user/ollama cuda

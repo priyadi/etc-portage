@@ -1,0 +1,3 @@
+*/* -amdgpu_targets_gfx90a -amdgpu_targets_gfx906 -amdgpu_targets_gfx908 -amdgpu_targets_gfx1100 -amdgpu_targets_gfx1030
+sci-libs/composable-kernel -python_targets_python3_11 -python_targets_python3_12
+
