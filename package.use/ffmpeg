@@ -1,1 +1,3 @@
 media-video/ffmpeg -flite -gmp
+media-video/ffmpeg-compat -flite -gmp
+

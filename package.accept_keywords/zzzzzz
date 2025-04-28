@@ -19,3 +19,4 @@
 =sys-apps/hwloc-2.11.2
 =sci-libs/composable-kernel-6.3.0
 =dev-ruby/kramdown-2.5.1::gentoo
+=dev-lang/rust-1.86.0-r1
