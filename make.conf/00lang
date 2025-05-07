@@ -1,4 +1,4 @@
-PHP_TARGETS="php8-1 php8-2 php8-3"
+PHP_TARGETS="php8-1 php8-2 php8-3 php8-4"
 RUBY_TARGETS="ruby32"
 POSTGRES_TARGETS="postgres16"
 PERL_FEATURES="ithreads"

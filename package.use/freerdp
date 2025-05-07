@@ -1,2 +1,2 @@
-net-misc/freerdp:2 server -client
-net-misc/freerdp:3 -server client
+#net-misc/freerdp:2 server -client
+net-misc/freerdp:3 server client
