@@ -20,3 +20,5 @@
 =sci-libs/composable-kernel-6.3.0
 =dev-ruby/kramdown-2.5.1::gentoo
 =dev-lang/rust-1.86.0-r1
+=dev-python/urwid-3.0.2::gentoo
+=net-libs/tdlib-1.8.49_p20250510::gentoo

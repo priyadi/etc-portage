@@ -34,7 +34,7 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      gallium gamepad garmin gbm gcj gcrypt gd gdal gdk-pixbuf gecko
      geckodriver gentoo-dev gentoo-vm geo geoclue geogebra geoip geolocation
      georeferencer geos get-all-deps gif gimp git github gl glamor gles gles1
-     gles2 gles3 glitz gme gmic gml gmm gmp gnome-online-accounts gnuefi
+     gles2 gles3 glfw glitz gme gmic gml gmm gmp gnome-online-accounts gnuefi
      gnuplot go gold google google-gadgets googledrive goom gpg gphoto2 gps
      gpsd_user gpssync graph graphics graphite graphviz grass groupwise grub
      gs gsl gsm gssapi gstreamer gtk3 gudev gui gusb h323 handbook handwriting
