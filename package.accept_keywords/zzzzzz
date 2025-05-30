@@ -22,3 +22,6 @@
 =dev-lang/rust-1.86.0-r1
 =dev-python/urwid-3.0.2::gentoo
 =net-libs/tdlib-1.8.49_p20250510::gentoo
+=dev-libs/libusb-1.0.28::gentoo
+=media-libs/mesa-25.1.1
+=dev-util/mesa_clc-25.1.1::gentoo
