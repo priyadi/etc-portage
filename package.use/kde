@@ -1,4 +1,5 @@
 #kde-plasma/plasma-meta gtk -qt5
+kde-apps/kdemultimedia-meta qt5
 kde-plasma/plasma-meta gtk qt5
 kde-plasma/plasma-integration qt5
 kde-apps/kaccounts-integration -qt5

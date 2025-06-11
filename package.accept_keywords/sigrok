@@ -1,3 +1,4 @@
+sci-libs/libsigrok
 sci-libs/libsigrokdecode
 sci-electronics/sigrok-cli
 sys-firmware/sigrok-firmware-fx2lafw
