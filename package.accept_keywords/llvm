@@ -8,4 +8,4 @@ llvm-core/llvmgold
 llvm-core/clang-toolchain-symlinks
 llvm-core/clang-runtime
 llvm-core/clang-common
-
+llvm-runtimes/compiler-rt
