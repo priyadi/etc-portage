@@ -25,3 +25,4 @@
 =dev-libs/libusb-1.0.28::gentoo
 =media-libs/mesa-25.1.1
 =dev-util/mesa_clc-25.1.1::gentoo
+=llvm-core/clang-20.1.6::gentoo
