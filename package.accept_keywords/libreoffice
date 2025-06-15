@@ -7,3 +7,4 @@ dev-java/openjdk-bin
 dev-cpp/libcmis
 dev-util/mdds
 app-text/libetonyek
+dev-libs/zxcvbn-c
