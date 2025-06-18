@@ -1,6 +1,5 @@
 acct-user/ollama::guru
 sci-ml/ollama
-sci-libs/hipBLAS
 dev-util/hip
 sci-libs/hipBLAS-common
 sci-libs/rocBLAS
@@ -17,3 +16,15 @@ dev-libs/rocr-runtime
 dev-libs/rocm-device-libs
 dev-libs/roct-thunk-interface
 dev-util/hipcc
+sci-libs/hipSPARSE
+sci-libs/hipSOLVER
+sci-libs/hipRAND
+sci-libs/hipFFT
+sci-libs/hipCUB
+sci-libs/hipBLASLt
+sci-libs/hipBLAS-common
+sci-libs/hipBLAS
+dev-libs/hipother
+dev-util/roctracer
+dev-util/Tensile
+dev-python/cppheaderparser
