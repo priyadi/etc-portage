@@ -6,3 +6,7 @@ net-im/telegram-desktop-bin
 =dev-cpp/abseil-cpp-20240722.0
 =dev-libs/protobuf-28.0
 =dev-cpp/ms-gsl-4.1.0::gentoo
+=dev-cpp/cld3-3.0.13_p20220331::gentoo
+=dev-cpp/qrcodegen-1.8.0_p3::gentoo
+=dev-cpp/expected-1.1.0::gentoo
+
