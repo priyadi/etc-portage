@@ -12,4 +12,5 @@ kde-apps/kio-extras
 dev-vcs/subversion
 
 =dev-libs/kirigami-addons-1.4.0::gentoo
+=dev-libs/ktextaddons-1.6.0::gentoo
 =media-libs/libdisplay-info-0.2.0-r1
