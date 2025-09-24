@@ -31,3 +31,10 @@
 =kde-apps/kqtquickcharts-25.07.70_pre20250625::gentoo
 =kde-apps/ktouch-25.07.70_pre20250628::gentoo
 =kde-apps/kamoso-25.07.80::gentoo
+#=net-fs/samba-4.22.3
+#=sys-libs/talloc-2.4.3::gentoo
+#=sys-libs/tdb-1.4.13::gentoo
+#=sys-libs/tevent-0.16.2::gentoo
+=dev-libs/dqlite-1.18.2::gentoo
+=net-p2p/kubo-0.36.0
+=dev-libs/qgpgme-2.0.0-r2

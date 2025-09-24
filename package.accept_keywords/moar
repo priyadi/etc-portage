@@ -1,1 +1,2 @@
-sys-apps/moar
+# move sys-apps/moar sys-apps/moor
+sys-apps/moor
