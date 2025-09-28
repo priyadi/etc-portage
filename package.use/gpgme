@@ -1,1 +1,1 @@
-#app-crypt/gpgme -qt6
+app-crypt/gpgme -qt6 -cxx -python -qt5
