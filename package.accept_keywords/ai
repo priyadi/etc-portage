@@ -28,3 +28,4 @@ dev-libs/hipother
 dev-util/roctracer
 dev-util/Tensile
 dev-python/cppheaderparser
+dev-libs/rocm-core
