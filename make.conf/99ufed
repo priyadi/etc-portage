@@ -72,8 +72,8 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      modminer modplug modules modules-compress moodbar mount mousepad
      mozdevelop mozdom mozilla mp2 mp3 mp3rtp mp3tunes mp4 mpeg mpeg2 mpg123
      mplayer mpris msn mssql mtp multimedia multiuser musepack music
-     musicbrainz mysql mysqli nat nat-pmp native-headset natspec nbconvert
-     ncat ndgrad ndiff ndof nemesi net netapi netcdf nettle network
+     musicbrainz musig mysql mysqli nat nat-pmp native-headset natspec
+     nbconvert ncat ndgrad ndiff ndof nemesi net netapi netcdf nettle network
      networkauth networkmanager nfc nfs nftables nghttp2 njb nlpsolver nls
      nokia notebook npm npp nscd nse nsplugin nss ntfs ntfsdecrypt ntp nuv
      nvme oauth obex ocaml ocean ocr odbc offensive office offload ofono ogdi
