@@ -25,17 +25,17 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      dnscrypt dos double-precision dpauxmon drafts drawing dri3 drillbit drm
      dropbox dtmf dtrace dts dv dvb dvd dvdr dvdread e2fs e2fsprogs eap-sim
      ebook ecdh echo-cancel edd editor egl eglfs eigen elf elfutils emoji
-     emovix enc265 enca encode eps epub equalizer escrow eselect eselect-ldso
-     evdev excel exceptions exif expat experimental extensions extra
-     extraengine extras faac faad facebook fam fapi farstream fasteap fat fax
-     fdk fdt festival ffmpeg fftw fido2 field3d filter firefox firefox3
-     firewalld firmware fish-completion fits flac flashexport flashrom flatpak
-     flickr flite fluidsynth fontconfig fontforge fpm fprint fpx freetype
-     frei0r fribidi frontend ftdi ftp fts3 fuse g3dvl gallium gamepad garmin
-     gbm gcj gcrypt gd gdal gdk-pixbuf gecko geckodriver gentoo-dev gentoo-vm
-     geo geoclue geogebra geoip geolocation georeferencer geos get-all-deps
-     gif gimp git github gl glamor gles gles1 gles2 gles3 glfw glitz gme gmic
-     gml gmm gmp gnome-online-accounts gnuefi gnuplot go gold google
+     emovix enc265 enca encode eps epub equalizer escrow eselect evdev excel
+     exceptions exif expat experimental extensions extra extraengine extras
+     faac faad facebook fam fapi farstream fasteap fat fax fdk fdt festival
+     ffmpeg fftw fido2 field3d filter firefox firefox3 firewalld firmware
+     fish-completion fits flac flashexport flashrom flatpak flexiblas flickr
+     flite fluidsynth fontconfig fontforge fpm fprint fpx freetype frei0r
+     fribidi frontend ftdi ftp fts3 fuse g3dvl gallium gamepad garmin gbm gcj
+     gcrypt gd gdal gdk-pixbuf gecko geckodriver gentoo-dev gentoo-vm geo
+     geoclue geogebra geoip geolocation georeferencer geos get-all-deps gif
+     gimp git github gl glamor gles gles1 gles2 gles3 glfw glitz gme gmic gml
+     gmm gmp gnome-online-accounts gnuefi gnuplot go gold google
      google-gadgets googledrive goom gpg gphoto2 gps gpsd_user gpssync graph
      graphics graphite graphviz grass groupwise grub gs gsl gsm gssapi
      gstreamer gtk3 gudev gui gusb h323 handbook handwriting haptic hardlink
@@ -73,22 +73,22 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      mozdevelop mozdom mozilla mp2 mp3 mp3rtp mp3tunes mp4 mpeg mpeg2 mpg123
      mplayer mpris msn mssql mtp multimedia multiuser musepack music
      musicbrainz musig mysql mysqli nat nat-pmp native-headset natspec
-     nbconvert ncat ndgrad ndiff ndof nemesi net netapi netcdf nettle network
-     networkauth networkmanager nfc nfs nftables nghttp2 njb nlpsolver nls
-     nokia notebook npm npp nscd nse nsplugin nss ntfs ntfsdecrypt ntp nuv
-     nvme oauth obex ocaml ocean ocr odbc offensive office offload ofono ogdi
-     ogg oldpim omxil opds openal opencl openconnect opencore-amr opencv
-     opencvapps openexr openh264 openimageio openipmi openssl openstreetmap
-     opensubdiv openvdb openvg openvpn optimization opus oracle oscar osmesa
-     otr overlay overlays ovftool ovs oxygen-theme p2p pango parport parted
-     partio passwordsave pcap pch pci pcntl pcre16 pcre32 pda pdal pdf
-     pdfimport pdfium pdo perl perlsuid persistenced pgo phonon php physfs
-     physics pigz pim pipewire pipewire-alsa pixeltool pkcs11 pkcs7 pl2303
-     plasma player playtools plotutils plucker plugins plymouth pnat png pnm
-     polar policykit positioning posix postgres postproc postscript pptp
-     prelink printsupport prison profile projectm proprietary-codecs ps ps3
-     psd psl ptex pulseaudio pvr pwquality pyqt4 pyqt6 python qalculate qdbus
-     qemu qml qmlls qrcode qt-faststart qt3support qt6 qt6-imageformats
+     nbconvert nbd ncat ndgrad ndiff ndof nemesi net netapi netcdf nettle
+     network networkauth networkmanager nfc nfs nftables nghttp2 njb nlpsolver
+     nls nokia notebook npm npp nscd nse nsplugin nss ntfs ntfsdecrypt ntp
+     numa nuv nvme oauth obex ocaml ocean ocr odbc offensive office offload
+     ofono ogdi ogg oldpim omxil opds openal opencl openconnect opencore-amr
+     opencv opencvapps openexr openh264 openimageio openipmi openssl
+     openstreetmap opensubdiv openvdb openvg openvpn optimization opus oracle
+     oscar osmesa otr overlay overlays ovftool ovs oxygen-theme p2p pango
+     parport parted partio passwordsave pcap pch pci pcntl pcre16 pcre32 pda
+     pdal pdf pdfimport pdfium pdo perl perlsuid persistenced pgo phonon php
+     physfs physics pigz pim pipewire pipewire-alsa pixeltool pkcs11 pkcs7
+     pl2303 plasma player playtools plotutils plucker plugins plymouth pnat
+     png pnm polar policykit positioning posix postgres postproc postscript
+     pptp prelink printsupport prison profile projectm proprietary-codecs ps
+     ps3 psd psl ptex pulseaudio pvr pwquality pyqt4 pyqt6 python qalculate
+     qdbus qemu qml qmlls qrcode qt-faststart qt3support qt6 qt6-imageformats
      qtaudio qtcamera qtdiag qtmedia qtplugininfo quick quick3d quotes quvi
      qwt racket radio rar rav1e raw raymask rdesktop rdp realtime redeyes
      redfish redistributable reencrypt regis remote remote-access remoteosd
@@ -118,21 +118,21 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      user-session utils uuid uvm uxa v4l v4l2 v4lutils vaapi vala vamp vc vcd
      vcdinfo vcdx vde vdo vdpau vector-icons vf-dlopen vhook vhost-net
      vhost-user-fs video videoeffects videoslideshow vidstab vim-pager
-     vim-syntax virgl virt-network virtfs visio visualization vix vkd3d vlc
-     vmware-tools vmware_guest_freebsd vmware_guest_linux vmware_guest_netware
-     vmware_guest_solaris vmware_guest_winPre2k vmware_guest_windows vnc
-     vorbis vpx vtk vulkan vxml wacom wallpaper wallpaper-metadata wallpapers
-     wasm wav wavpack wayland wddx web-services webcam webchannel webdav
-     webdav-serf webdriver webengine webinterface webkit webp webphoto
-     webpresence webready webserver websocket websockets widevine widgets wifi
-     wiimote wimax win32 winbind windeco winetriks winpopup wired wireless
-     wireshark-plugins wlm wma wmf woff2 wpg wps wwan wxwidgets x11extras x264
-     x265 xa xattr xcb xcomposite xcsecurity xephyr xetex xface xfs xhtml
-     xinerama xkb xls xml xmlpatterns xmlreader xmlrpc xmlwriter xmp xosd xpm
-     xpresent xrandr xscreensaver xsl xslt xulrunner xv xvfb xvid xvmc xxhash
-     xz yahoo yv12 zenmap zeroconf zeromq zimg zink zip zmq zsh-completion
-     zstd zvbi -amrr -anselpro -cammy -debug -dhcpcd -dinkypro
-     -dist-kernel-cap -dso -foxypro -ginapro -gnome -gradpro -gtk -hpn -libav
-     -luks1_default -mad -mattypro -percypro -qt4 -qt5 -recode -roypro
-     -sadiepro -shadypro -sharpiepro -siggypro -tonypro -xsimd"
+     vim-syntax virgl virt-network virtfs virtiofsd visio visualization vix
+     vkd3d vlc vmware-tools vmware_guest_freebsd vmware_guest_linux
+     vmware_guest_netware vmware_guest_solaris vmware_guest_winPre2k
+     vmware_guest_windows vnc vorbis vpx vtk vulkan vxml wacom wallpaper
+     wallpaper-metadata wallpapers wasm wav wavpack wayland wddx web-services
+     webcam webchannel webdav webdav-serf webdriver webengine webinterface
+     webkit webp webphoto webpresence webready webserver websocket websockets
+     widevine widgets wifi wiimote wimax win32 winbind windeco winetriks
+     winpopup wired wireless wireshark-plugins wlm wma wmf woff2 wpg wps wwan
+     wxwidgets x11extras x264 x265 xa xattr xcb xcomposite xcsecurity xephyr
+     xetex xface xfs xhtml xinerama xkb xls xml xmlpatterns xmlreader xmlrpc
+     xmlwriter xmp xosd xpm xpresent xrandr xscreensaver xsl xslt xulrunner xv
+     xvfb xvid xvmc xxhash xz yahoo yv12 zenmap zeroconf zeromq zimg zink zip
+     zmq zsh-completion zstd zvbi -amrr -anselpro -cammy -debug -dhcpcd
+     -dinkypro -dist-kernel-cap -dso -foxypro -ginapro -gnome -gradpro -gtk
+     -hpn -libav -luks1_default -mad -mattypro -percypro -qt4 -qt5 -recode
+     -roypro -sadiepro -shadypro -sharpiepro -siggypro -tonypro -xsimd"
 
