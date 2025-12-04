@@ -4,3 +4,4 @@ app-editors/vim-core
 app-vim/editorconfig-vim
 app-vim/vim-commentary
 app-vim/vim-autoclose
+dev-util/xxd
