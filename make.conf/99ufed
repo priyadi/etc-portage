@@ -106,14 +106,14 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      sqlite2 sqlite3 squashfs srt srtp sse sse2 sse3 ssh sshdump sssd ssse3
      staging stars startup-notification static-ppds static-user stream stubby
      subversion sudo suid svc svg svg2 svt-av1 swat swiftshader synaptics
-     sync-plugin-portage syslog system-ffmpeg system-llvm system-png
-     system-sqlite systemtap systray sysv-utils sysvipc szip taglib tbb tci
-     tdls teamd telemetry telepathy telescope teletext telnet templates
-     terminal tesseract texi2html tfshark tftp themes theora thin threads
-     thunderbolt tiff timezone timidity tinywl tkip tls tls-heartbeat tmpfiles
-     tntc tokenizer tools tpm trace translate translator tremor truetype
-     truetype-debugger tslib tts tuio twitter twolame ubuntu-one udev udf uefi
-     uitools umfpack unlock-notify unrar unsupported unwind upcall
+     sync-plugin-portage syslog system-ffmpeg system-llvm system-pipewire
+     system-png system-sqlite systemtap systray sysv-utils sysvipc szip taglib
+     tbb tci tdls teamd telemetry telepathy telescope teletext telnet
+     templates terminal tesseract texi2html tfshark tftp themes theora thin
+     threads thunderbolt tiff timezone timidity tinywl tkip tls tls-heartbeat
+     tmpfiles tntc tokenizer tools tpm trace translate translator tremor
+     truetype truetype-debugger tslib tts tuio twitter twolame ubuntu-one udev
+     udf uefi uitools umfpack unlock-notify unrar unsupported unwind upcall
      update-drivedb update_drivedb upnp urandom usb usbredir use-firmware
      user-session utils uuid uvm uxa v4l v4l2 v4lutils vaapi vala vamp vc vcd
      vcdinfo vcdx vde vdo vdpau vector-icons vf-dlopen vhook vhost-net
