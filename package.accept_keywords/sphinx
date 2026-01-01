@@ -2,3 +2,4 @@ dev-python/sphinx
 # move dev-python/sphinx_rtd_theme dev-python/sphinx-rtd-theme
 dev-python/sphinx-rtd-theme
 dev-python/sphinxcontrib-jquery
+dev-python/roman-numerals
