@@ -54,3 +54,5 @@
 =media-libs/libwebp-1.6.0::gentoo
 =sys-libs/libnbd-1.23.9-r1
 =sci-geosciences/grass-8.4.2
+=llvm-runtimes/compiler-rt-22.1.0::gentoo
+=dev-util/Tensile-7.2.0::gentoo
