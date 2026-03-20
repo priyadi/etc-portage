@@ -104,8 +104,8 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      sockets socks socks5 sodium softstore solver soprano sound sound-server
      soundex source-highlight sourceview sox soxr spandsp spatial spatialaudio
      spatialite spectrum speech speex spell spi spice sql sqlite sqlite2
-     sqlite3 squashfs srt srtp sse sse2 sse3 ssh sshdump sssd ssse3 staging
-     stars startup-notification static-ppds static-user stream stubby
+     sqlite3 squashfs srt srtp sse sse2 sse3 ssh ssh-agent sshdump sssd ssse3
+     staging stars startup-notification static-ppds static-user stream stubby
      subversion sudo suid svc svg svg2 svt-av1 swat swiftshader synaptics
      sync-plugin-portage syslog system-ffmpeg system-llvm system-pipewire
      system-png system-sqlite systemtap systray sysv-utils sysvipc szip taglib
@@ -130,7 +130,7 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      winetriks winpopup wired wireless wireshark-plugins wlm wma wmf woff2 wpg
      wps wwan wxwidgets x11extras x264 x265 xa xattr xcb xcomposite xcsecurity
      xephyr xetex xface xfs xhtml xinerama xkb xls xml xmlpatterns xmlreader
-     xmlrpc xmlwriter xmp xosd xpm xpresent xrandr xscreensaver xsl xslt
+     xmlrpc xmlwriter xmp xmss xosd xpm xpresent xrandr xscreensaver xsl xslt
      xulrunner xv xvfb xvid xvmc xxhash xz yahoo yv12 zenmap zeroconf zeromq
      zimg zink zip zmq zsh-completion zstd zvbi -amrr -anselpro -cammy -debug
      -dhcpcd -dinkypro -dist-kernel-cap -dso -foxypro -ginapro -gnome -gradpro

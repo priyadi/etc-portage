@@ -56,3 +56,8 @@
 =sci-geosciences/grass-8.4.2
 =llvm-runtimes/compiler-rt-22.1.0::gentoo
 =dev-util/Tensile-7.2.0::gentoo
+
+=llvm-core/llvm-22.1.0-r2::gentoo
+=llvm-core/clang-22.1.0-r2::gentoo
+=sys-apps/systemd-260
+=dev-libs/libbpf-1.6.3

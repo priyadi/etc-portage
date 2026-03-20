@@ -9,4 +9,4 @@ media-libs/tg_owt
 =dev-cpp/cld3-3.0.13_p20220331::gentoo
 =dev-cpp/qrcodegen-1.8.0_p3::gentoo
 =dev-cpp/expected-1.1.0::gentoo
-
+dev-cpp/cppgir
