@@ -59,5 +59,6 @@
 
 =llvm-core/llvm-22.1.0-r2::gentoo
 =llvm-core/clang-22.1.0-r2::gentoo
-=sys-apps/systemd-260
+=sys-apps/systemd-260-r2
 =dev-libs/libbpf-1.6.3
+=dev-debug/systemtap-5.4
