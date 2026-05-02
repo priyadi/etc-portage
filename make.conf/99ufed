@@ -1,8 +1,8 @@
 USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      action_modeswitch addc addns addressbook adns ads aio airplay akonadi
-     alembic all-sfx alsa alt-svc amdgpu amr amrenc amrnb amrwb amt analitza
-     andrea android androiddump andypro ao aom ap apng app appindicator
-     appstream aprs aptx archive ares argyllcms aribsub armadillo
+     alembic all-sfx alsa alt-svc amdgpu amf amr amrenc amrnb amrwb amt
+     analitza andrea android androiddump andypro ao aom ap apng app
+     appindicator appstream aprs aptx archive ares argyllcms aribsub armadillo
      artswrappersuid attica attrib audiofile audit aufs auto-hinter autoipd
      automount autotrace avahi avalon avif avx avx2 avx512bw avx512cd avx512dq
      avx512f avx512vbmi avx512vl barcode bash-completion bazaar bcache bcg729
@@ -52,16 +52,16 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      iosevka-ss13 iosevka-ss14 iosevka-ss15 iosevka-ss16 iosevka-ss17
      iosevka-ss18 iphone ipod iproute2 irda iscsi iso ispc ithreads jabber
      jack jack-sdk jadetex jansson java java5 java6 javascript jbig jemalloc
-     jfs jingle jit jpeg jpeg2k jpegxl json julia justify kaccounts kate kbd
-     kde kde4 kdenlive kdepim kdesu kdrive kerberos kernel-open keyboardfocus
+     jfs jingle jit jpeg jpeg2k jpegxl json justify kaccounts kate kbd kde
+     kde4 kdenlive kdepim kdesu kdrive kerberos kernel-open keyboardfocus
      keyring keyutils kf6compat kig-scripting kipi klondike kms knots krita
      ktls kvazaar kvm l0 ladspa lame lapack lapacke laptop lastfm latex layers
      lcdfilter lcms ldac ldap ldns legacy-systray lensfun libaom libaribb24
      libass libcaca libcamera libcerf libconfig libdrm libei libevent libffi
      libguess libilbc libkms liblc3 libmount libmpv libnotify libplacebo
      libproxy librtmp libs libsamplerate libsecret libsoxr libssh libssh2
-     libsysfs libtar libtesseract libtiger libuv libuvc libv4l libv4l2 libvirt
-     libvirtd libvisual libxml2 linsys lirc live llvm llvm-shared-libs
+     libsysfs libtar libtesseract libtiger libusb libuv libuvc libv4l libv4l2
+     libvirt libvirtd libvisual libxml2 linsys lirc live llvm llvm-shared-libs
      lm-sensors lm_sensors localstorage location logger logitech
      logitech-mouse logrotate loop-aes loudness lqr lrz lspclient lto lua
      lua52compat lv2 lvm lvm2 lxc lz4 lzip lzma lzo macsec magic mail man maps
@@ -89,13 +89,13 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      positioning posix postgres postproc postscript pptp prelink printsupport
      prison profile projectm proprietary-codecs ps ps3 psd psl ptex pulseaudio
      pvr pwquality pyqt4 pyqt6 pyside6 python qalculate qdbus qemu qml qmlls
-     qrcode qt-faststart qt3support qt6 qt6-imageformats qtaudio qtcamera
-     qtdiag qtmedia qtplugininfo quick quick3d quotes quvi qwt racket radio
-     rar rav1e raw raymask rdesktop rdp realtime redeyes redfish
+     qrcode qsv qt-faststart qt3support qt6 qt6-imageformats qtaudio qtcamera
+     qtdiag qtmedia qtplugininfo quick quick3d quirc quotes quvi qwt racket
+     radio rar rav1e raw raymask rdesktop rdp realtime redeyes redfish
      redistributable reencrypt regis remote remote-access remoteosd renderdoc
-     renderer rendering repart resolvconf rfc3779 rls roc rocm romio rpc rss
-     rtaudio rtc rtmp rtsp rubberband ruby run-as-root rust-src rustfmt samba
-     sasl sbc sbsms scanner schroedinger science scim screencast script
+     renderer rendering repart resolvconf rfc3779 rist rls roc rocm romio rpc
+     rss rtaudio rtc rtmp rtsp rubberband ruby run-as-root rust-src rustfmt
+     samba sasl sbc sbsms scanner schroedinger science scim screencast script
      scripting scripts scripttools sctp sdbinutils sdjournal sdl sdl-image
      sdlgfx secure-delete security-key sensord sensors serial serialport
      server sesame2 session setproctitle sftp shapefile share sharedext
@@ -115,25 +115,26 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      tmpfiles tntc tokenizer tools tpm trace translate translator tremor
      truetype truetype-debugger tslib tts tuio twitter twolame ubuntu-one udev
      udf uefi uitools umfpack unlock-notify unrar unsupported unwind upcall
-     update-drivedb update_drivedb upnp urandom usb usbredir use-firmware
-     user-session utils uuid uvm uxa v4l v4l2 v4lutils vaapi vala vamp vc vcd
-     vcdinfo vcdx vde vdo vdpau vector-icons vf-dlopen vhook vhost-net
-     vhost-user-fs video videoeffects videoslideshow vidstab vim-pager
-     vim-syntax virgl virt-network virtfs virtiofsd visio visualization vix
-     vkd3d vlc vmware-tools vmware_guest_freebsd vmware_guest_linux
-     vmware_guest_netware vmware_guest_solaris vmware_guest_winPre2k
-     vmware_guest_windows vnc vorbis vpx vtk vulkan vxml wacom wallpaper
-     wallpaper-metadata wallpapers wasm wav wavpack wayland wddx web-services
-     webcam webchannel webdav webdav-serf webdriver webengine webinterface
-     webkit webp webphoto webpresence webready webserver websocket websockets
-     webview widevine widgets wifi wiimote wimax win32 winbind windeco
-     winetriks winpopup wired wireless wireshark-plugins wlm wma wmf woff2 wpg
-     wps wwan wxwidgets x11extras x264 x265 xa xattr xcb xcomposite xcsecurity
-     xephyr xetex xface xfs xhtml xinerama xkb xls xml xmlpatterns xmlreader
-     xmlrpc xmlwriter xmp xmss xosd xpm xpresent xrandr xscreensaver xsl xslt
-     xulrunner xv xvfb xvid xvmc xxhash xz yahoo yv12 zenmap zeroconf zeromq
-     zimg zink zip zmq zsh-completion zstd zvbi -amrr -anselpro -cammy -debug
-     -dhcpcd -dinkypro -dist-kernel-cap -dso -foxypro -ginapro -gnome -gradpro
-     -gtk -hpn -libav -luks1_default -mad -mattypro -percypro -qt4 -qt5
-     -recode -roypro -sadiepro -shadypro -sharpiepro -siggypro -tonypro -xsimd"
+     update-drivedb update_drivedb upnp urandom usb usb-modeswitch usb-monitor
+     usbredir use-firmware user-permissions user-session utils uuid uvm uxa
+     v4l v4l2 v4lutils vaapi vala vamp vc vcd vcdinfo vcdx vde vdo vdpau
+     vector-icons vf-dlopen vhook vhost-net vhost-user-fs video videoeffects
+     videoslideshow vidstab vim-pager vim-syntax virgl virt-network virtfs
+     virtiofsd visio visualization vix vkd3d vlc vmaf vmware-tools
+     vmware_guest_freebsd vmware_guest_linux vmware_guest_netware
+     vmware_guest_solaris vmware_guest_winPre2k vmware_guest_windows vnc
+     vorbis vpx vtk vulkan vxml wacom wallpaper wallpaper-metadata wallpapers
+     wasm wav wavpack wayland wddx web-services webcam webchannel webdav
+     webdav-serf webdriver webengine webinterface webkit webp webphoto
+     webpresence webready webserver websocket websockets webview widevine
+     widgets wifi wiimote wimax win32 winbind windeco winetriks winpopup wired
+     wireless wireshark-plugins wlm wma wmf woff2 wpg wps wwan wxwidgets
+     x11extras x264 x265 xa xattr xcb xcomposite xcsecurity xephyr xetex xface
+     xfs xhtml xinerama xkb xls xml xmlpatterns xmlreader xmlrpc xmlwriter xmp
+     xmss xosd xpm xpresent xrandr xscreensaver xsl xslt xulrunner xv xvfb
+     xvid xvmc xxhash xz yahoo yv12 zenmap zeroconf zeromq zimg zink zip zmq
+     zsh-completion zstd zvbi -amrr -anselpro -cammy -debug -dhcpcd -dinkypro
+     -dist-kernel-cap -dso -foxypro -ginapro -gnome -gradpro -gtk -hpn -julia
+     -libav -luks1_default -mad -mattypro -percypro -qt4 -qt5 -recode -roypro
+     -sadiepro -shadypro -sharpiepro -siggypro -tonypro -xsimd"
 

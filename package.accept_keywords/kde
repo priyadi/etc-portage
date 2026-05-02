@@ -19,3 +19,4 @@ dev-vcs/subversion
 =media-libs/libdisplay-info-0.2.0-r1
 =app-crypt/gocryptfs-2.6.1-r1::gentoo
 =gui-apps/sddm-gentoo-config-0::gentoo
+=media-libs/opentimelineio-0.18.1::gentoo
