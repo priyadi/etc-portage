@@ -62,3 +62,4 @@
 =sys-apps/systemd-260-r2
 =dev-libs/libbpf-1.6.3
 =dev-debug/systemtap-5.4
+=media-gfx/imagemagick-7.1.2.18
