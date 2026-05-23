@@ -15,12 +15,12 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      clippy cloudprint codec2 collada color-management color-popper colord
      colorhug colorpopper comic compositor compress-zstd connection-sharing
      connectivity conntrack consolekit context contrast contrast-control
-     contrastcontrol contrib corefonts criu cron cryptsetup cscope css ctype
-     cups cupsddk curl curves custom-jdk custom-modes cxx cycles d3d10 d3d11
-     d3d8 d3d9 daap darcs dav1d dbase dbus dc1394 ddcutil debuginfod dec265
-     decklink declarative deep-sky demosaic designer designer-plugin
-     desktopglobe device-lib device-mapper dga dhclient dia dialup dicom
-     digikam dirac discover disk-partition display-manager
+     contrastcontrol contrib corefonts corepack criu cron cryptsetup cscope
+     css ctype cups cupsddk curl curves custom-jdk custom-modes cxx cycles
+     d3d10 d3d11 d3d8 d3d9 daap darcs dav1d dbase dbus dc1394 ddcutil
+     debuginfod dec265 decklink declarative deep-sky demosaic designer
+     designer-plugin desktopglobe device-lib device-mapper dga dhclient dia
+     dialup dicom digikam dirac discover disk-partition display-manager
      distancefieldgenerator djvu dlna dmraid dmx dnn dnotify dns-over-tls
      dnscrypt dos double-precision dpauxmon drafts drawing dri3 drillbit drm
      dropbox dtmf dtrace dts dv dvb dvd dvdr dvdread e2fs e2fsprogs eap-sim
