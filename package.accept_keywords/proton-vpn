@@ -1,0 +1,6 @@
+net-vpn/proton-vpn-gtk-app
+dev-python/proton-core
+dev-python/proton-vpn-network-manager
+dev-python/proton-vpn-local-agent
+dev-python/proton-vpn-api-core
+dev-python/proton-keyring-linux

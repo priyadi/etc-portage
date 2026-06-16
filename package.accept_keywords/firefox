@@ -8,5 +8,5 @@ dev-libs/nss
 #dev-libs/wayland-protocols
 #x11-libs/libdrm
 #x11-libs/pixman
-#dev-util/cbindgen
+dev-util/cbindgen
 =dev-libs/icu-78.1::gentoo
