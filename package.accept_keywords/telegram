@@ -11,3 +11,5 @@ media-libs/tg_owt
 =dev-cpp/expected-1.1.0::gentoo
 dev-cpp/cppgir
 =dev-cpp/abseil-cpp-20260107.1
+app-text/cmark-gfm
+dev-cpp/toomanycooks
