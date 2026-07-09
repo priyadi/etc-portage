@@ -29,3 +29,4 @@ dev-util/roctracer
 dev-util/Tensile
 dev-python/cppheaderparser
 dev-libs/rocm-core
+sci-ml/ggml
