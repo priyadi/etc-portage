@@ -1,11 +1,20 @@
 #!/bin/sh
 
-# sudo systemd-run --pty --wait   --nice=19   -p CPUQuota=600% -p CPUWeight=5 -p IOWeight=5   -p IOSchedulingClass=idle   bash -lc 'emerge -DuNav world --keep-going'
+# Re-exec the whole run inside emerge.slice so the build competes with the
+# desktop on the slice's terms (see systemd/emerge.slice in this repo).
+# PORTAGE_NICENESS alone cannot do this: nice only arbitrates within a
+# cgroup, and the build and the desktop live in different ones.
 
+if [ -z "${EMERGE_SH_SCOPED}" ]; then
+	exec sudo env EMERGE_SH_SCOPED=1 \
+		systemd-run --scope --quiet --collect \
+		--slice=emerge.slice --description="emerge world update" \
+		"$0" "$@"
+fi
 
-sudo emerge --sync
-sudo eix-update
-sudo emerge -DuNav world --keep-going --backtrack 30 --verbose-conflicts \
-	&& sudo emerge --depclean \
-	&& sudo eclean distfiles \
-	&& sudo eclean-kernel
+emerge --sync
+eix-update
+emerge -DuNav world --keep-going --backtrack 30 --verbose-conflicts \
+	&& emerge --depclean \
+	&& eclean distfiles \
+	&& eclean-kernel

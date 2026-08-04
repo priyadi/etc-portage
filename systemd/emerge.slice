@@ -1,0 +1,15 @@
+[Unit]
+Description=Slice for Portage builds, deprioritised against the desktop
+
+[Slice]
+# Proportional share, only bites under contention: an idle system still
+# builds at full speed, a busy one gives the desktop ~85% of the CPU.
+CPUWeight=15
+# Hard ceiling so a runaway build cannot peg all 16 threads and drag
+# every core's clock down with it.
+CPUQuota=900%
+# Only honoured when the block device uses bfq (nvme0n1 currently uses
+# "none", so this is inert until the scheduler is switched).
+IOWeight=10
+# Throttle + reclaim instead of letting a big LTO link eat the page cache.
+MemoryHigh=32G
