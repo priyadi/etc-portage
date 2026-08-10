@@ -1,1 +1,2 @@
 app-emulation/wine-vanilla ABI_X86: -32
+app-emulation/wine-proton ABI_X86: -32
