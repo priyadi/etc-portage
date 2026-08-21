@@ -20,3 +20,6 @@ dev-vcs/subversion
 =app-crypt/gocryptfs-2.6.1-r1::gentoo
 =gui-apps/sddm-gentoo-config-0::gentoo
 =media-libs/opentimelineio-0.18.1::gentoo
+=dev-libs/kirigami-app-components-1.0.2::gentoo
+=media-sound/fluidsynth-2.5.7::gentoo
+=dev-python/pyside-6.11.2::gentoo
