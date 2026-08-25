@@ -81,3 +81,5 @@
 =media-libs/libheif-1.21.2
 
 =sci-libs/pdal-2.10.0
+
+=app-shells/nushell-0.115.0
