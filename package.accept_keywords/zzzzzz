@@ -83,3 +83,5 @@
 =sci-libs/pdal-2.10.0
 
 =app-shells/nushell-0.115.0
+=dev-libs/libebml-1.4.7::gentoo
+=media-libs/libmatroska-1.7.2::gentoo

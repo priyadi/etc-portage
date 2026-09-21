@@ -1,0 +1,13 @@
+www-apps/invidious
+dev-crystal/athena-negotiation
+dev-crystal/http_proxy
+dev-crystal/kemal
+dev-crystal/protodec
+dev-util/gshards
+dev-crystal/exception_page
+dev-crystal/radix
+dev-crystal/backtracer
+virtual/crystal-db
+dev-crystal/crystal-db
+dev-crystal/crystal-pg
+dev-crystal/crystal-sqlite3

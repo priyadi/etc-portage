@@ -3,7 +3,7 @@ www-client/firefox-l10n::gentoo
 dev-libs/nspr
 dev-libs/nss
 #media-libs/harfbuzz
-#media-libs/dav1d
+media-libs/dav1d
 #gui-libs/wlroots
 #dev-libs/wayland-protocols
 #x11-libs/libdrm
