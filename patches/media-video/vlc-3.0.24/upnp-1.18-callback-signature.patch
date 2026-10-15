@@ -1,0 +1,14 @@
+libupnp 1.18 changed Upnp_FunPtr's Event argument back to non-const void*.
+GCC 16 makes the resulting invalid pointer conversion a hard error.
+
+--- a/modules/services_discovery/upnp.hpp
++++ b/modules/services_discovery/upnp.hpp
+@@ -35,7 +35,7 @@
+ 
+ #include <vlc_common.h>
+ 
+-#if UPNP_VERSION < 10800
++#if UPNP_VERSION < 10800 || UPNP_VERSION >= 11800
+ typedef void* UpnpEventPtr;
+ #else
+ typedef const void* UpnpEventPtr;
