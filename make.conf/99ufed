@@ -88,10 +88,10 @@ USE="3d 7z 7za 7zip R X X509 a52 aac aacplus aacs aalib accessibility acpi
      playtools plotutils plucker plugins plymouth pnat png pnm polar policykit
      positioning posix postgres postproc postscript pptp prelink printsupport
      prison profile projectm proprietary-codecs ps ps3 psd psl ptex pulseaudio
-     pvr pwquality pyqt4 pyqt6 pyside6 python qalculate qdbus qemu qml qmlls
-     qrcode qsv qt-faststart qt3support qt6 qt6-imageformats qtaudio qtcamera
-     qtdiag qtmedia qtplugininfo quick quick3d quirc quotes quvi qwt racket
-     radio rar rav1e raw raymask rdesktop rdp realtime redeyes redfish
+     pvr pwquality pyqt4 pyqt6 pyside6 python qalculate qdbus qdoc qemu qml
+     qmlls qrcode qsv qt-faststart qt3support qt6 qt6-imageformats qtaudio
+     qtcamera qtdiag qtmedia qtplugininfo quick quick3d quirc quotes quvi qwt
+     racket radio rar rav1e raw raymask rdesktop rdp realtime redeyes redfish
      redistributable reencrypt regis remote remote-access remoteosd renderdoc
      renderer rendering repart resolvconf rfc3779 rist rls roc rocm romio rpc
      rss rtaudio rtc rtmp rtsp rubberband ruby run-as-root rust-src rustfmt
