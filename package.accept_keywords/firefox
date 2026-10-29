@@ -10,3 +10,4 @@ media-libs/dav1d
 #x11-libs/pixman
 dev-util/cbindgen
 =dev-libs/icu-78.1::gentoo
+media-libs/libaom
