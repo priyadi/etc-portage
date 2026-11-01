@@ -1,0 +1,3 @@
+# python3_14-only migration (2026-10-31): unblock dependency resolution.
+# cloudpickle & co. BDEPEND <flit-core-4; nothing requires >=4 yet.
+>=dev-python/flit-core-4
