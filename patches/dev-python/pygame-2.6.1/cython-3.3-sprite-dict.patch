@@ -1,0 +1,16 @@
+Cython >=3.3 rejects 'cdef dict __dict__' (Illegal use of special attribute __dict__).
+_sprite is an unused experimental module; pygame.sprite is pure Python.
+
+--- a/src_c/cython/pygame/_sprite.pyx	2026-11-01 20:34:45.363495227 +0700
++++ b/src_c/cython/pygame/_sprite.pyx	2026-11-01 20:34:52.209431757 +0700
+@@ -142,10 +142,8 @@
+     cdef public set __g
+     cdef public object image
+     cdef public Rect rect
+-    cdef dict __dict__
+ 
+     def __cinit__(self):
+-        self.__dict__ = {}
+         self.__g = set() # The groups the sprite is in
+ 
+     def __init__(self, *groups):
